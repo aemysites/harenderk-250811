@@ -1,0 +1,669 @@
+{
+  "originUrl": "https://beta-prod-skyplus6e.goindigo.in",
+  "aborted": false,
+  "lastCrawled": "https://beta-prod-skyplus6e.goindigo.in/get-inspired/nofilterbyindigo.html",
+  "urls": [
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/?linkNav=Logo%7C%7CHeader",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "debfb3c8bda5f74ff5f59c6bcfb801c758c56c88"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/?logintype=loginPopup&linkNav=Customer%20Login%7CLogin%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "c03ac5f7eaccc6d2084a4da995d0d138c38252b5"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "53039e30faba8381d33c0746a748521eac9480c8"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "355206b00d0d3d631cd1c4ea9e675b91a8dbe94b"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_hamburger~Services-and-offers",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "386c87eef027fa261e80621e82fdbd3c366344a3"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_Header~Rewards",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "44cc1bf5e7bef4130de4ba2fca22cd658fb2475b"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7C%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "02b9da61f04275067800150179e4ea2872688eff"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us.html?linkNav=about-us_footer",
+      "source": "CRAWL",
+      "targetPath": "/about-us",
+      "id": "e87280c173d76d2438dafb96dd92fe591dbf3e34"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/awards.html",
+      "source": "CRAWL",
+      "targetPath": "/about-us/awards",
+      "id": "e2bdc87b252489c8fac604f6ee741830fe6d1f2d"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/awards.html?linkNav=awards_footer",
+      "source": "CRAWL",
+      "targetPath": "/about-us/awards",
+      "id": "382e21cab531b455be65396189e9be3e38720ff9"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/board-of-directors.html?linkNav=board-of-directors_footer",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors",
+      "id": "2bea33fbeba5278f67c32ef301584fe4383a1006"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/leadership-team.html?linkNav=leadership-team_footer",
+      "source": "CRAWL",
+      "targetPath": "/about-us/leadership-team",
+      "id": "f7277453e0f58b0b195444f589349c12325c9eb7"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services.html?linkNav=add-on-services_footer",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services",
+      "id": "a7278ab60277ec90ee873e26d54d899820f7d2aa"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services",
+      "id": "71ed5f0dca3ff29508af61c41294c76ad580a920"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/6e-prime.html?linkNav=6e-prime_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/6e-prime",
+      "id": "b8ccd4dcb763e4da64846b7f4285ada19ff72d65"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/excess-baggage.html?linkNav=excess-baggage_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/excess-baggage",
+      "id": "a58ae4b84e360aad3a348c09d185efcf2d061bc6"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/fast-forward.html?linkNav=fast-forward_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/fast-forward",
+      "id": "9ab3d997319883114e59f7bcdf72029a77ae0228"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/food-menu.html",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/food-menu",
+      "id": "8d774f3401001a5fae190b2b9dddd3566f1d75de"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/food-menu.html?linkNav=6e-tiffin_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/food-menu",
+      "id": "12b778f5bd571ce1b844052a15fb503817367b6f"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/indigo-early.html?linkNav=indigo-early_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/indigo-early",
+      "id": "f54b03fcb380922ad288b67791e2b51a5930dbb5"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/seat-plus.html?linkNav=seat-plus_footer",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/seat-plus",
+      "id": "669addbfdc210d699e601fde0aaa9196e6d177df"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/unaccompanied-minor.html?linkNav=unaccompanied-minor_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services/unaccompanied-minor",
+      "id": "5abf7c73fc99660f10e7cacf3c52b7f1be6fa998"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/agent.html?logintype=loginPopup",
+      "source": "CRAWL",
+      "targetPath": "/agent",
+      "id": "3b36293888d975f78a9d1f22e3cb4c0a17e67144"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/agent/agent-profile.html",
+      "source": "CRAWL",
+      "targetPath": "/agent/agent-profile",
+      "id": "8860febc7c147fffcb463718d88a8496053ba1bc"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/agent/reset-password-confirmation.html",
+      "source": "CRAWL",
+      "targetPath": "/agent/reset-password-confirmation",
+      "id": "ac82a4f4b0982107fbd217e90fbed85146fc5dd0"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/aircraft-and-fleet.html?linkNav=aircraft-and-fleet_footer",
+      "source": "CRAWL",
+      "targetPath": "/aircraft-and-fleet",
+      "id": "3296cfe23ac54c5eb664c7e096aff155dfc49a9f"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/aircraft-and-fleet.html?linkNav=seat/aircraft-information_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/aircraft-and-fleet",
+      "id": "45cf2c3c774846deab642f9fc8263c3278bd39bf"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/baggage.html?linkNav=baggage_footer",
+      "source": "CRAWL",
+      "targetPath": "/baggage",
+      "id": "da1d90030225d63c54577348198bc280ae28139b"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/baggage.html?linkNav=Baggage%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/baggage",
+      "id": "8b9fe409d604c3e8ba760f75cc94ec2fb271844e"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/hello-6e.html?linkNav=hello-6e_footer",
+      "source": "CRAWL",
+      "targetPath": "/campaigns/hello-6e",
+      "id": "33bc5502f3a8bd433cfaa5ed89f06ba4ae67ade0"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/indigo-offers.html?linkNav=indigo-offers_footer",
+      "source": "CRAWL",
+      "targetPath": "/campaigns/indigo-offers",
+      "id": "7bacf03835705b4d52eed1a578baf17731d02e90"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/indigo-offers.html?linkNav=offers_hamburger~Services-and-offers",
+      "source": "CRAWL",
+      "targetPath": "/campaigns/indigo-offers",
+      "id": "63cee06870453fd3a204bee716aa9ae194470c84"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/change-flight.html",
+      "source": "CRAWL",
+      "targetPath": "/change-flight",
+      "id": "563580be34fa8bdee2c4cbd2ad5f49e3665ba59d"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/change-flight.html?linkNav=Change%20Flight%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/change-flight",
+      "id": "ab05c6abab8a2ce8c8c6318a45b289e28a23d356"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/charters.html?linkNav=charters_footer",
+      "source": "CRAWL",
+      "targetPath": "/charters",
+      "id": "8451d51bb63951039f5ac3b2c68640a03be99ed6"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=flight-status_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/check-flight-status",
+      "id": "a95d32bc1aaa9dd3408328b0867fe55508e4d856"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=flight-status_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/check-flight-status",
+      "id": "86ec0a58bd24152e2e5069b5c5237b62269d0ec8"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/check-flight-status",
+      "id": "994a0d9719e484f25297119502728aef3e0c719f"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us.html?linkNav=contact-us_hamburger~other",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "ce3488f8e0869b4ca58d91b392261ad05389cdaa"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us.html?linkNav=contact-us_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "1e02d71009f4064191ee22045d5a9a4e55e83a42"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/feedback.html",
+      "source": "CRAWL",
+      "targetPath": "/contact-us/feedback",
+      "id": "f24d18f1ce6bd9af40917098fdee8486ee26c262"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/query-form-alliances.html?linkNav=query-form-alliances_footer",
+      "source": "CRAWL",
+      "targetPath": "/contact-us/query-form-alliances",
+      "id": "b1e345adabefd1baa4dad42b0b8828ca07b92612"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/query-form-alliances.html?linkNav=query-form-alliancesfooter",
+      "source": "CRAWL",
+      "targetPath": "/contact-us/query-form-alliances",
+      "id": "5eed6015c6d2f0efb2fa235a9137e3973e1d1838"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/csr.html?linkNav=csr_footer",
+      "source": "CRAWL",
+      "targetPath": "/csr",
+      "id": "be56e4fef320f0157b4405f6e1fb3c37eb0f2d3c"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=Destination%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/destinations",
+      "id": "140f8806687b42d7837428bab33b229283c17689"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=destinations_footer",
+      "source": "CRAWL",
+      "targetPath": "/destinations",
+      "id": "55e2475a6e6e13c651fa83e0151a7556c15f33b4"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=destinations_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/destinations",
+      "id": "247f43c17645f375ff3c3ac23fa093fc7a6b777a"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=packages_hamburger~Services-and-offers",
+      "source": "CRAWL",
+      "targetPath": "/destinations",
+      "id": "35cd862687c879891d3678851d9be588027d9517"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html",
+      "source": "CRAWL",
+      "targetPath": "/edit-booking",
+      "id": "5fb6b12668b8a5f9495964b5a0a2902c6b623de7"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/edit-booking",
+      "id": "272d98ebbd5bdf2ba032089f794d94047e080bf3"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html?linkNav=view/edit-booking_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/edit-booking",
+      "id": "66e26b1b0c1527ea91d70b44ed92669dc7542297"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired.html",
+      "source": "CRAWL",
+      "targetPath": "/get-inspired",
+      "id": "f4d07613525e63b298c05cf920ef5ddf6213b70c"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired.html?linkNav=get-inspired_footer",
+      "source": "CRAWL",
+      "targetPath": "/get-inspired",
+      "id": "1c7da7aadd19eb750fc689831fb48860fd771fe8"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired/nofilterbyindigo.html",
+      "source": "CRAWL",
+      "targetPath": "/get-inspired/nofilterbyindigo",
+      "id": "cf661c16c7f68bb886e473922e1b51aa08ea4b68"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/how-to-check-in.html?linkNav=web-check-in_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/how-to-check-in",
+      "id": "e993489d42d24f2218cab19b36c1a5e4ea690f98"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information.html",
+      "source": "CRAWL",
+      "targetPath": "/information",
+      "id": "f1939e6f7a22a73656a10ef9462e26cf0a175d5e"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information.html?linkNav=additional-info_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/information",
+      "id": "5b27fe896451e327ef090f0aab1928916ddb2e58"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/conditions-of-carriage.html?linkNav=conditions-of-carriage_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/conditions-of-carriage",
+      "id": "3a82d485c536c8c993410f2d7da2b707f4c7c81d"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20Carriage%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/information/conditions-of-carriage",
+      "id": "978c50b4eb09e2053d071786a99fe7d0784a7175"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/corona-virus-travel-restrictions.html",
+      "source": "CRAWL",
+      "targetPath": "/information/corona-virus-travel-restrictions",
+      "id": "2efad8dad5c29fcd2a6e650f8521636ca67181ea"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/corona-virus-travel-restrictions.html?linkNav=COVID-19%20queries%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/information/corona-virus-travel-restrictions",
+      "id": "7c1ec9f08157d20a00532da00c011c7240bdfed6"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/disclaimer.html?linkNav=disclaimer_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/disclaimer",
+      "id": "704c36aa702ef55b6ba34098e7a35516256eb88b"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/equal-opportunity-policy.html?linkNav=equal-opportunity-policy_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/equal-opportunity-policy",
+      "id": "fac7dafa1d3015a148e452c8568a6e18f143ac61"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/fees-and-charges.html?linkNav=fees-and-charges_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/information/fees-and-charges",
+      "id": "c6b8429ff767bec12b0dc722091070fa6e7c5497"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/information/fees-and-charges",
+      "id": "a8028afa22d267138c78cfe3436de1fa931888f2"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/flight-information.html?linkNav=weather-advisory_hamburger~other",
+      "source": "CRAWL",
+      "targetPath": "/information/flight-information",
+      "id": "02e955ade0f5e7a3bee0d1f67b2f505ef6be4a17"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/hiv-aids-workplace-policy.html?linkNav=hiv-aids-workplace-policy_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/hiv-aids-workplace-policy",
+      "id": "904f456a91f9cffcf93ea3f4746ed424566f9e4c"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/indigo-green.html?linkNav=indigo-green_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/indigo-green",
+      "id": "40bd669446d372b948d7a3545edb83ee22428b56"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/inter-globe-enterprises.html?linkNav=inter-globe-enterprises_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/inter-globe-enterprises",
+      "id": "e3042aabfba70123b83a5dd7dd6d34ed3048d479"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/investor-relations.html?linkNav=investor-relations_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/investor-relations",
+      "id": "ea4750b3e6bb6225dc15df1cc107ae6d1350c95f"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/investor-relations.html?linkNav=investor-relations_hamburger~other",
+      "source": "CRAWL",
+      "targetPath": "/information/investor-relations",
+      "id": "316a548dc33f3b4438a9f8c6129ea2cc8545e853"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/mobile.html?linkNav=download-app_hamburger~other",
+      "source": "CRAWL",
+      "targetPath": "/information/mobile",
+      "id": "25daead02aeed156d708aa64536b8afc9b4e1d34"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/privacy.html?linkNav=privacy_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/privacy",
+      "id": "67cce0f74e57c1c53eb3c69515ee09c6615614a1"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance.html?linkNav=special-assistance_hamburger~info-on-the-go~special-assistance",
+      "source": "CRAWL",
+      "targetPath": "/information/special-disability-assistance",
+      "id": "d5fd3bfd3925be00797c811af619e1b2a248691d"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance.html?linkNav=special-disability-assistance_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/special-disability-assistance",
+      "id": "3c4f4bea4625f2fcab715320e00b818ac7a29f2e"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance/disability-assistance.html?linkNav=disability-assistance_hamburger~info-on-the-go~special-assistance",
+      "source": "CRAWL",
+      "targetPath": "/information/special-disability-assistance/disability-assistance",
+      "id": "01b5e8cc38f42a72af0d4f446f14c12a671d2691"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance/special-assistance.html?linkNav=special-assistance_hamburger~info-on-the-go~special-assistance",
+      "source": "CRAWL",
+      "targetPath": "/information/special-disability-assistance/special-assistance",
+      "id": "f720cd2528a86d8ba1471c2f8b7ad487a26b4f05"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/terms-and-conditions.html?linkNav=terms-and-conditions_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/terms-and-conditions",
+      "id": "b4ffc9ae4c79721b4e77c11c7f435c4fabe7cc42"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/transgender-person-policy.html?linkNav=transgender-person-policy_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/transgender-person-policy",
+      "id": "01d63ffb2fb4a5f044e7cd603335a7a155247fd6"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/information/useful-tips-for-your-international-flight.html?linkNav=useful-tips-for-your-international-flight_footer",
+      "source": "CRAWL",
+      "targetPath": "/information/useful-tips-for-your-international-flight",
+      "id": "259eacbcb3a8a58da1701345d9fce330e265e786"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/initiate-refund.html?linkNav=initiate-refund_footer",
+      "source": "CRAWL",
+      "targetPath": "/initiate-refund",
+      "id": "9e8c36658d37e8b60b6e32f197690213aa90e548"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/interest-on-credit-shell.html?linkNav=interest-on-credit-shell_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/interest-on-credit-shell",
+      "id": "2496af6efbe8c0c0fe748cd2aa90783731ed6766"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/member/member-profile.html",
+      "source": "CRAWL",
+      "targetPath": "/member/member-profile",
+      "id": "13bd913dc349a7a32044c82edb346d581b415731"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/member/member-profile.html?linkNav=my-account-and-settings_hamburger~other",
+      "source": "CRAWL",
+      "targetPath": "/member/member-profile",
+      "id": "8c2d84fce2d367b2b0bb431c5c8efd9231bd2594"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/member/registration.html",
+      "source": "CRAWL",
+      "targetPath": "/member/registration",
+      "id": "64415445932b67414689bb42c01409bb117554d9"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/member/reset-password.html",
+      "source": "CRAWL",
+      "targetPath": "/member/reset-password",
+      "id": "fc416c4e7523fedcd2c9c61946a41e76e99df321"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html",
+      "source": "CRAWL",
+      "targetPath": "/plan-b",
+      "id": "285b168bb52ab8c7f2699f00927b1ff04f240342"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html?linkNav=plan-b_footer",
+      "source": "CRAWL",
+      "targetPath": "/plan-b",
+      "id": "25bd0cf1e4ca26992f90de1caa9dee282d06b21a"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html?linkNav=Plan%20B%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/plan-b",
+      "id": "80595d58761c8b0e435c02b793c678fa7623b8a9"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/press-releases.html?linkNav=press-releases_footer",
+      "source": "CRAWL",
+      "targetPath": "/press-releases",
+      "id": "93901b68dac234deaee6986b5d6b83df6413cbee"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/print-baggage-tags.html",
+      "source": "CRAWL",
+      "targetPath": "/print-baggage-tags",
+      "id": "98f6cd69bf945329c0c6e69b6f256403d673781d"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tag%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/print-baggage-tags",
+      "id": "65d439935715cbe6f84df8016260501930dc64f3"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/sitemap.html?linkNav=sitemap_footer",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "333b541eee1a15c91ef46433bf97e00add7d43eb"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en.html?linkNav=FAQs_hamburger~info-on-the-go",
+      "source": "CRAWL",
+      "targetPath": "/travel-information/en",
+      "id": "5cbbfcf81e4beb41ef6db59f841be14abaa0ba42"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en.html?linkNav=FAQs_Header~info",
+      "source": "CRAWL",
+      "targetPath": "/travel-information/en",
+      "id": "46e551ad4963c8986f33054f32ac2b4b73cf23e0"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en/add-on-services.en-2ea8afda83ea41dda1b965ad8e1ceb53.html?linkNav=6e-special_hamburger~Services-and-offers~Add-on-services",
+      "source": "CRAWL",
+      "targetPath": "/travel-information/en/add-on-services-en-2ea8afda83ea41dda1b965ad8e1ceb53",
+      "id": "91a8403b329ba7c0bc2d2c2560e6d665069d9872"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/update-contact-details.html?linkNav=update-contact-details_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/update-contact-details",
+      "id": "ac74e33815db0fb4993691d9ef9554c25b90228e"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/view-gst-invoice.html?linkNav=view-gst-invoice_hamburger~flight",
+      "source": "CRAWL",
+      "targetPath": "/view-gst-invoice",
+      "id": "d8b4316e7645b4f7d39c74abc97750955b316517"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=check-in_Header~Check-In",
+      "source": "CRAWL",
+      "targetPath": "/web-check-in",
+      "id": "b6c51277dd06837c926d55cc1fb6a6a3ce1a4fca"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=Check-in%7C%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/web-check-in",
+      "id": "6d8eb50f0ae70fdc821a78a0931f36aec27eea7a"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=web-check-in_footer",
+      "source": "CRAWL",
+      "targetPath": "/web-check-in",
+      "id": "c3841a82cb6b304bcfbb51c6b5529524576dc87a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/homepage.html",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/partner-login.html?linkNav=partner-login_header",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/agent.html?linkNav=partner-login_header"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/get-inspired?linkNav=get-inspired_hamburger~info-on-the-go~explore-our-destinations.html",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/get-inspired.html?linkNav=get-inspired_hamburger~info-on-the-go~explore-our-destinations.html"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/indian-destinations?linkNav=indian-destinations_hamburger~info-on-the-go~explore-our-destinations.html",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/indian-destinations.html?linkNav=indian-destinations_hamburger~info-on-the-go~explore-our-destinations.html"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/international-destinations?linkNav=international-destinations_hamburger~info-on-the-go~explore-our-destinations.html",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/international-destinations.html?linkNav=international-destinations_hamburger~info-on-the-go~explore-our-destinations.html"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/sme/en.html?linkNav=en_header",
+      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/corp-admin.html?linkNav=en_header"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/check-refund-status.html?linkNav=check-refund-status_hamburger~flight",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/6e-flex.html?linkNav=6e-flex_hamburger~Services-and-offers~Add-on-services",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/indigo-promise.html?linkNav=indigo-promise_hamburger~Services-and-offers~Add-on-services",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://beta-prod-skyplus6e.goindigo.in/etc/designs/indigo/clientlib-global/site-icons/site.webmanifest",
+      "status": "content type is not text/html"
+    }
+  ]
+}
