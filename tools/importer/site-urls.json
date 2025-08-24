@@ -1,613 +1,601 @@
 {
-  "originUrl": "https://beta-prod-skyplus6e.goindigo.in",
+  "originUrl": "https://www.goindigo.in",
   "aborted": false,
-  "lastCrawled": "https://beta-prod-skyplus6e.goindigo.in/get-inspired/nofilterbyindigo.html",
+  "lastCrawled": "https://www.goindigo.in/international-destinations/amsterdam.html",
   "urls": [
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/?linkNav=Logo%7C%7CHeader",
+      "url": "https://www.goindigo.in/?status=logout&linkNav=Log%20out%7COthers%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/",
-      "id": "debfb3c8bda5f74ff5f59c6bcfb801c758c56c88"
+      "id": "52df1979d5f4b67f0ec47145532dfa6a20a02ce5"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/?logintype=loginPopup&linkNav=Customer%20Login%7CLogin%7CHeader%20Menu",
-      "source": "CRAWL",
-      "targetPath": "/",
-      "id": "c03ac5f7eaccc6d2084a4da995d0d138c38252b5"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html",
+      "url": "https://www.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7C%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/6e-rewards",
-      "id": "53039e30faba8381d33c0746a748521eac9480c8"
+      "id": "4978ee92cdd5cd4919910739e5681e80435fb8b8"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_hamburger~flight",
+      "url": "https://www.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7CFlights%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/6e-rewards",
-      "id": "355206b00d0d3d631cd1c4ea9e675b91a8dbe94b"
+      "id": "c19acdebc3f6f2099c35eff875524b3d7b7a68d1"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_hamburger~Services-and-offers",
-      "source": "CRAWL",
-      "targetPath": "/6e-rewards",
-      "id": "386c87eef027fa261e80621e82fdbd3c366344a3"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6e-rewards_Header~Rewards",
-      "source": "CRAWL",
-      "targetPath": "/6e-rewards",
-      "id": "44cc1bf5e7bef4130de4ba2fca22cd658fb2475b"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7C%7CHeader%20Menu",
-      "source": "CRAWL",
-      "targetPath": "/6e-rewards",
-      "id": "02b9da61f04275067800150179e4ea2872688eff"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us.html?linkNav=about-us_footer",
+      "url": "https://www.goindigo.in/about-us.html?linkNav=About%20us%7CGet%20to%20Know%20Us%7CFooter",
       "source": "CRAWL",
       "targetPath": "/about-us",
-      "id": "e87280c173d76d2438dafb96dd92fe591dbf3e34"
+      "id": "34efcd98c624cf4337df0cb303eee0fca0a7acc6"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/awards.html",
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Best%20Low%20Cost%20Airline-Asia%7C1%7CFooter",
       "source": "CRAWL",
       "targetPath": "/about-us/awards",
-      "id": "e2bdc87b252489c8fac604f6ee741830fe6d1f2d"
+      "id": "5895c4227c8a13be35e66c58f848fa2bdb8ea67a"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/awards.html?linkNav=awards_footer",
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Passenger%20Choice%20Awards%7C2%7CFooter",
       "source": "CRAWL",
       "targetPath": "/about-us/awards",
-      "id": "382e21cab531b455be65396189e9be3e38720ff9"
+      "id": "62aaba0e6b9721257a37b11ab68b1cbbb30ae1f6"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/board-of-directors.html?linkNav=board-of-directors_footer",
+      "url": "https://www.goindigo.in/about-us/diversity-equity-and-inclusion.html?linkNav=6E%20Embrace%20-%20Diversity%20Equity%20%26%20Inclusion%7CGet%20to%20Know%20Us%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/about-us/board-of-directors",
-      "id": "2bea33fbeba5278f67c32ef301584fe4383a1006"
+      "targetPath": "/about-us/diversity-equity-and-inclusion",
+      "id": "9ce1dfd6f43173263c4fecfe4e0811a99d2cc3ad"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/about-us/leadership-team.html?linkNav=leadership-team_footer",
+      "url": "https://www.goindigo.in/about-us/leadership-team.html?linkNav=Leadership%20Team%7CCOMPANY%7CFooter",
       "source": "CRAWL",
       "targetPath": "/about-us/leadership-team",
-      "id": "f7277453e0f58b0b195444f589349c12325c9eb7"
+      "id": "8fc9adcf087c41e2742c9714614e9f83bea0a234"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services.html?linkNav=add-on-services_footer",
+      "url": "https://www.goindigo.in/account/my-bookings.html",
+      "source": "CRAWL",
+      "targetPath": "/account/my-bookings",
+      "id": "3048feec487b76e0b71f4c494178a1cc7b78d065"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-bookings.html?linkNav=Find%20%26%20view%20booking%7CMy%20trips%7CTrips",
+      "source": "CRAWL",
+      "targetPath": "/account/my-bookings",
+      "id": "43ee3a0d00459abd0b8d99431b43e3dbda3d59b0"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-profile.html?linkNav=My%20Profile%7CProfile%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/account/my-profile",
+      "id": "61e0aca48e6327c447f43294faff11274d833979"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=%3Cp%3EAdd%20Baggage%20%20Tags%3C%2Fp%3E%0D%0A%7C%7CCards",
       "source": "CRAWL",
       "targetPath": "/add-on-services",
-      "id": "a7278ab60277ec90ee873e26d54d899820f7d2aa"
+      "id": "47105979460b96d44ff55d2f86d0d180c132589a"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/add-on-services",
-      "id": "71ed5f0dca3ff29508af61c41294c76ad580a920"
+      "id": "bf8c7d9adf7e56ac864d6d171a8248253b95e0c6"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/6e-prime.html?linkNav=6e-prime_hamburger~Services-and-offers~Add-on-services",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services",
+      "id": "b65fb355165dee0f8cf6e05b55498c5250192add"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CServices%20%26%20Offers%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/add-on-services",
+      "id": "989c83c49a7a920277405f2dfb8331ac6d15e3f5"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services/6e-prime.html",
       "source": "CRAWL",
       "targetPath": "/add-on-services/6e-prime",
-      "id": "b8ccd4dcb763e4da64846b7f4285ada19ff72d65"
+      "id": "971a3803f17a875d810e7b3deca2cc97b85272b3"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/excess-baggage.html?linkNav=excess-baggage_hamburger~Services-and-offers~Add-on-services",
+      "url": "https://www.goindigo.in/add-on-services/excess-baggage.html",
       "source": "CRAWL",
       "targetPath": "/add-on-services/excess-baggage",
-      "id": "a58ae4b84e360aad3a348c09d185efcf2d061bc6"
+      "id": "4233041f4f870ecf68a8bc85d342c0815588a550"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/fast-forward.html?linkNav=fast-forward_hamburger~Services-and-offers~Add-on-services",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/fast-forward",
-      "id": "9ab3d997319883114e59f7bcdf72029a77ae0228"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/food-menu.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/food-menu",
-      "id": "8d774f3401001a5fae190b2b9dddd3566f1d75de"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/food-menu.html?linkNav=6e-tiffin_hamburger~Services-and-offers~Add-on-services",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/food-menu",
-      "id": "12b778f5bd571ce1b844052a15fb503817367b6f"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/indigo-early.html?linkNav=indigo-early_hamburger~Services-and-offers~Add-on-services",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/indigo-early",
-      "id": "f54b03fcb380922ad288b67791e2b51a5930dbb5"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/seat-plus.html?linkNav=seat-plus_footer",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/seat-plus",
-      "id": "669addbfdc210d699e601fde0aaa9196e6d177df"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/unaccompanied-minor.html?linkNav=unaccompanied-minor_hamburger~Services-and-offers~Add-on-services",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/unaccompanied-minor",
-      "id": "5abf7c73fc99660f10e7cacf3c52b7f1be6fa998"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/agent.html?logintype=loginPopup",
-      "source": "CRAWL",
-      "targetPath": "/agent",
-      "id": "3b36293888d975f78a9d1f22e3cb4c0a17e67144"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/agent/agent-profile.html",
-      "source": "CRAWL",
-      "targetPath": "/agent/agent-profile",
-      "id": "8860febc7c147fffcb463718d88a8496053ba1bc"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/agent/reset-password-confirmation.html",
-      "source": "CRAWL",
-      "targetPath": "/agent/reset-password-confirmation",
-      "id": "ac82a4f4b0982107fbd217e90fbed85146fc5dd0"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/aircraft-and-fleet.html?linkNav=aircraft-and-fleet_footer",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "source": "CRAWL",
       "targetPath": "/aircraft-and-fleet",
-      "id": "3296cfe23ac54c5eb664c7e096aff155dfc49a9f"
+      "id": "76aba140bc749f0b0d1d5588bd07523b5fcddab3"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/aircraft-and-fleet.html?linkNav=seat/aircraft-information_Header~info",
+      "url": "https://www.goindigo.in/airport-directory/netherlands/amsterdam-ams.html",
       "source": "CRAWL",
-      "targetPath": "/aircraft-and-fleet",
-      "id": "45cf2c3c774846deab642f9fc8263c3278bd39bf"
+      "targetPath": "/airport-directory/netherlands/amsterdam-ams",
+      "id": "40040f2482570983034e98633fc167871348f4ce"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/baggage.html?linkNav=baggage_footer",
+      "url": "https://www.goindigo.in/app-check-in.html?linkNav=App%20Check-in%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/app-check-in",
+      "id": "95b3d24ba33d16b8c3004ff6cdd5e2a249e82ed1"
+    },
+    {
+      "url": "https://www.goindigo.in/auto-check-in.html",
+      "source": "CRAWL",
+      "targetPath": "/auto-check-in",
+      "id": "d556006c08a324f3307a2523b8b4186e724bf562"
+    },
+    {
+      "url": "https://www.goindigo.in/baggage.html?linkNav=Baggage%7CSUPPORT%7CFooter",
       "source": "CRAWL",
       "targetPath": "/baggage",
-      "id": "da1d90030225d63c54577348198bc280ae28139b"
+      "id": "57d89709506537ecce1a943290d26757fa3ca2d5"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/baggage.html?linkNav=Baggage%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/boarding-pass.html?linkNav=Boarding%20Pass%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
-      "targetPath": "/baggage",
-      "id": "8b9fe409d604c3e8ba760f75cc94ec2fb271844e"
+      "targetPath": "/boarding-pass",
+      "id": "50b004a60008819d3fb6fbfccb4fe71a6e59850e"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/hello-6e.html?linkNav=hello-6e_footer",
-      "source": "CRAWL",
-      "targetPath": "/campaigns/hello-6e",
-      "id": "33bc5502f3a8bd433cfaa5ed89f06ba4ae67ade0"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/indigo-offers.html?linkNav=indigo-offers_footer",
+      "url": "https://www.goindigo.in/campaigns/indigo-offers.html?linkNav=Offers%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
       "targetPath": "/campaigns/indigo-offers",
-      "id": "7bacf03835705b4d52eed1a578baf17731d02e90"
+      "id": "cfd2b1a15518fd28f9996598f2a7995d19b4c28f"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/campaigns/indigo-offers.html?linkNav=offers_hamburger~Services-and-offers",
+      "url": "https://www.goindigo.in/cancellation.html?linkNav=Cancellation%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
-      "targetPath": "/campaigns/indigo-offers",
-      "id": "63cee06870453fd3a204bee716aa9ae194470c84"
+      "targetPath": "/cancellation",
+      "id": "21ee004c5bd6a1c92b4e316b39ffc353465ecb71"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/change-flight.html",
-      "source": "CRAWL",
-      "targetPath": "/change-flight",
-      "id": "563580be34fa8bdee2c4cbd2ad5f49e3665ba59d"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/change-flight.html?linkNav=Change%20Flight%7CManage%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/change-flight.html",
       "source": "CRAWL",
       "targetPath": "/change-flight",
-      "id": "ab05c6abab8a2ce8c8c6318a45b289e28a23d356"
+      "id": "511e7d76244cb0a30d5a1b568144bf5884d431e8"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/charters.html?linkNav=charters_footer",
+      "url": "https://www.goindigo.in/change-flight.html?linkNav=Change%20flight%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/change-flight",
+      "id": "5349aec7c363c6961acf11172060e3d3e1ff208b"
+    },
+    {
+      "url": "https://www.goindigo.in/charters.html?linkNav=Charter%20Services%7CSUPPORT%7CFooter",
       "source": "CRAWL",
       "targetPath": "/charters",
-      "id": "8451d51bb63951039f5ac3b2c68640a03be99ed6"
+      "id": "3a3cbf2e967eaf4260705b8358268d06a5842701"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=flight-status_hamburger~flight",
+      "url": "https://www.goindigo.in/check-flight-status.html",
       "source": "CRAWL",
       "targetPath": "/check-flight-status",
-      "id": "a95d32bc1aaa9dd3408328b0867fe55508e4d856"
+      "id": "78f8943822d68412e201f07a9aaeaa321ca59de7"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=flight-status_Header~info",
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CFlights%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/check-flight-status",
-      "id": "86ec0a58bd24152e2e5069b5c5237b62269d0ec8"
+      "id": "7dacede15b3b6addd1a8b162fcd62b60d05aacb5"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/check-flight-status",
-      "id": "994a0d9719e484f25297119502728aef3e0c719f"
+      "id": "e43e532bdda726198d6a637c3f163c9eb9b37416"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us.html?linkNav=contact-us_hamburger~other",
+      "url": "https://www.goindigo.in/check-refund-status.html",
+      "source": "CRAWL",
+      "targetPath": "/check-refund-status",
+      "id": "1c9b950951a9ff069088381d4c64499cbf45bfc1"
+    },
+    {
+      "url": "https://www.goindigo.in/check-refund-status.html?linkNav=Check%20Refund%20Status%7CFlights%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/check-refund-status",
+      "id": "8b94a947c27befbfae66a1d67cbb5b682e94ffdd"
+    },
+    {
+      "url": "https://www.goindigo.in/check-refund-status.html?linkNav=Refund%20Status%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/check-refund-status",
+      "id": "2d4c905c42b498f8aca3ba2aecbd71a54edf471d"
+    },
+    {
+      "url": "https://www.goindigo.in/check-refund-status.html?linkNav=Track%20refund%7COther%7CTrips",
+      "source": "CRAWL",
+      "targetPath": "/check-refund-status",
+      "id": "95634306d7291560ffe98daf6502ec309735ce02"
+    },
+    {
+      "url": "https://www.goindigo.in/codeshare-partners.html",
+      "source": "CRAWL",
+      "targetPath": "/codeshare-partners",
+      "id": "2a1866aa79d0876893053121a68ed6a01083e475"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20us%7COther%20information%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/contact-us",
-      "id": "ce3488f8e0869b4ca58d91b392261ad05389cdaa"
+      "id": "3afad6f7cebd68e191caa9bddb16d1a8ffb3d220"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us.html?linkNav=contact-us_Header~info",
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7COthers%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/contact-us",
-      "id": "1e02d71009f4064191ee22045d5a9a4e55e83a42"
+      "id": "d21a8e54ad8af2af440c13a2c21f1bd3fb78b60b"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/feedback.html",
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7CSUPPORT%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "b33528b23f7d0754e791cf41c1d9bbd45acf2b36"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us/feedback.html?linkNav=Send%20Feedback%20CTA%20Title%7C%7CFooter",
       "source": "CRAWL",
       "targetPath": "/contact-us/feedback",
-      "id": "f24d18f1ce6bd9af40917098fdee8486ee26c262"
+      "id": "be2f8d719105c27639c458fdb649b2ad302499cb"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/query-form-alliances.html?linkNav=query-form-alliances_footer",
+      "url": "https://www.goindigo.in/corp-admin.html?linkNav=SME%7CHello%20there%2C%7CHeader%20Menu",
       "source": "CRAWL",
-      "targetPath": "/contact-us/query-form-alliances",
-      "id": "b1e345adabefd1baa4dad42b0b8828ca07b92612"
+      "targetPath": "/corp-admin",
+      "id": "5152eca8246453011aea5a68417c446080c56b4c"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/contact-us/query-form-alliances.html?linkNav=query-form-alliancesfooter",
-      "source": "CRAWL",
-      "targetPath": "/contact-us/query-form-alliances",
-      "id": "5eed6015c6d2f0efb2fa235a9137e3973e1d1838"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/csr.html?linkNav=csr_footer",
+      "url": "https://www.goindigo.in/csr.html?linkNav=IndiGoReach%20-%20Our%20CSR%20initiatives%7CCOMPANY%7CFooter",
       "source": "CRAWL",
       "targetPath": "/csr",
-      "id": "be56e4fef320f0157b4405f6e1fb3c37eb0f2d3c"
+      "id": "f205998b285880dd4af248f906ac8cf7f7bd5163"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=Destination%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/csr.html?linkNav=IndiGoReach%20-%20Our%20CSR%20initiatives%7CGet%20to%20Know%20Us%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/csr",
+      "id": "62ef2cae9203c5305b5bc6f32664cb097050388a"
+    },
+    {
+      "url": "https://www.goindigo.in/destinations.html?linkNav=Destinations%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
       "targetPath": "/destinations",
-      "id": "140f8806687b42d7837428bab33b229283c17689"
+      "id": "20f5c387a719b2fdf37a3acccbd68580efee63ea"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=destinations_footer",
-      "source": "CRAWL",
-      "targetPath": "/destinations",
-      "id": "55e2475a6e6e13c651fa83e0151a7556c15f33b4"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=destinations_Header~info",
-      "source": "CRAWL",
-      "targetPath": "/destinations",
-      "id": "247f43c17645f375ff3c3ac23fa093fc7a6b777a"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/destinations.html?linkNav=packages_hamburger~Services-and-offers",
-      "source": "CRAWL",
-      "targetPath": "/destinations",
-      "id": "35cd862687c879891d3678851d9be588027d9517"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Update%20IndiGo%20BluChip%20Number%7CChange%20your%20journey%7CTrips",
       "source": "CRAWL",
       "targetPath": "/edit-booking",
-      "id": "5fb6b12668b8a5f9495964b5a0a2902c6b623de7"
+      "id": "95bf3a7c21160cbfaa3fe8cbf5fdafdf7b3c070d"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7CManage%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Update%20IndiGo%20BluChip%20Number%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
       "source": "CRAWL",
       "targetPath": "/edit-booking",
-      "id": "272d98ebbd5bdf2ba032089f794d94047e080bf3"
+      "id": "e83840f127b4950c6ba68504bb3e21310ec58736"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/edit-booking.html?linkNav=view/edit-booking_hamburger~flight",
-      "source": "CRAWL",
-      "targetPath": "/edit-booking",
-      "id": "66e26b1b0c1527ea91d70b44ed92669dc7542297"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired.html",
+      "url": "https://www.goindigo.in/get-inspired.html?linkNav=Blogs%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
       "targetPath": "/get-inspired",
-      "id": "f4d07613525e63b298c05cf920ef5ddf6213b70c"
+      "id": "8105fd45fe8a578b651167bb2a34b214dc7badf4"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired.html?linkNav=get-inspired_footer",
+      "url": "https://www.goindigo.in/get-inspired/why-visit-amsterdam.html",
       "source": "CRAWL",
-      "targetPath": "/get-inspired",
-      "id": "1c7da7aadd19eb750fc689831fb48860fd771fe8"
+      "targetPath": "/get-inspired/why-visit-amsterdam",
+      "id": "ba5966d3f4308b3d0598dbcffb97d74ba537ac8e"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/get-inspired/nofilterbyindigo.html",
+      "url": "https://www.goindigo.in/get-inspired/witness-the-best-of-history-in-top-international-cities.html",
       "source": "CRAWL",
-      "targetPath": "/get-inspired/nofilterbyindigo",
-      "id": "cf661c16c7f68bb886e473922e1b51aa08ea4b68"
+      "targetPath": "/get-inspired/witness-the-best-of-history-in-top-international-cities",
+      "id": "bdd34888b98d85b28db12af6827187c500152d28"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/how-to-check-in.html?linkNav=web-check-in_hamburger~flight",
+      "url": "https://www.goindigo.in/hotels",
       "source": "CRAWL",
-      "targetPath": "/how-to-check-in",
-      "id": "e993489d42d24f2218cab19b36c1a5e4ea690f98"
+      "targetPath": "/hotels",
+      "id": "2549f42768e43ba0f1992194f3cc6193c2a7894a"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information.html",
+      "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/hotels",
+      "id": "f896ca40ca75372807c3f0bb04bb6cebd83de718"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/hotels",
+      "id": "85b219dc7da2082acca4ad6286ef889129319594"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels/resource?tab=privacy_policy",
+      "source": "CRAWL",
+      "targetPath": "/hotels/resource",
+      "id": "a4d4aaed133e5783dd1eb9f673c5368483134cf9"
+    },
+    {
+      "url": "https://www.goindigo.in/information.html?linkNav=Additional%20Info%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/information",
-      "id": "f1939e6f7a22a73656a10ef9462e26cf0a175d5e"
+      "id": "37c4146c0f68f2d62be0af55a3455af331a1b910"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information.html?linkNav=additional-info_Header~info",
+      "url": "https://www.goindigo.in/information/credit-shell.html",
       "source": "CRAWL",
-      "targetPath": "/information",
-      "id": "5b27fe896451e327ef090f0aab1928916ddb2e58"
+      "targetPath": "/information/credit-shell",
+      "id": "185a8487805f021706f9b673d512e44eaf039b4e"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/conditions-of-carriage.html?linkNav=conditions-of-carriage_footer",
+      "url": "https://www.goindigo.in/information/credit-shell.html?linkNav=Information%20on%20Credit%20Shell%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
-      "targetPath": "/information/conditions-of-carriage",
-      "id": "3a82d485c536c8c993410f2d7da2b707f4c7c81d"
+      "targetPath": "/information/credit-shell",
+      "id": "b49ae2f0fdcdb5ab214aed5c92fe4adf4d47823a"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20Carriage%7CInfo%7CHeader%20Menu",
-      "source": "CRAWL",
-      "targetPath": "/information/conditions-of-carriage",
-      "id": "978c50b4eb09e2053d071786a99fe7d0784a7175"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/corona-virus-travel-restrictions.html",
-      "source": "CRAWL",
-      "targetPath": "/information/corona-virus-travel-restrictions",
-      "id": "2efad8dad5c29fcd2a6e650f8521636ca67181ea"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/corona-virus-travel-restrictions.html?linkNav=COVID-19%20queries%7CInfo%7CHeader%20Menu",
-      "source": "CRAWL",
-      "targetPath": "/information/corona-virus-travel-restrictions",
-      "id": "7c1ec9f08157d20a00532da00c011c7240bdfed6"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/disclaimer.html?linkNav=disclaimer_footer",
-      "source": "CRAWL",
-      "targetPath": "/information/disclaimer",
-      "id": "704c36aa702ef55b6ba34098e7a35516256eb88b"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/equal-opportunity-policy.html?linkNav=equal-opportunity-policy_footer",
-      "source": "CRAWL",
-      "targetPath": "/information/equal-opportunity-policy",
-      "id": "fac7dafa1d3015a148e452c8568a6e18f143ac61"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/fees-and-charges.html?linkNav=fees-and-charges_Header~info",
+      "url": "https://www.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CCustomise%20your%20journey%7CTrips",
       "source": "CRAWL",
       "targetPath": "/information/fees-and-charges",
-      "id": "c6b8429ff767bec12b0dc722091070fa6e7c5497"
+      "id": "9674eda8f1ec635d0bc1965a674db7f8196b5f69"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/information/fees-and-charges",
-      "id": "a8028afa22d267138c78cfe3436de1fa931888f2"
+      "id": "49a08ccc1b28a40b18a2379db0e1c168395cdef2"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/flight-information.html?linkNav=weather-advisory_hamburger~other",
+      "url": "https://www.goindigo.in/information/flight-information.html?linkNav=Weather%20advisory%7COthers%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/information/flight-information",
-      "id": "02e955ade0f5e7a3bee0d1f67b2f505ef6be4a17"
+      "id": "d55ec3409963b14ce76c9781f9b194f25a026438"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/hiv-aids-workplace-policy.html?linkNav=hiv-aids-workplace-policy_footer",
+      "url": "https://www.goindigo.in/information/hiv-aids-workplace-policy.html?linkNav=HIV%2FAIDS%20workplace%20policy%7CCOMPANY%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/hiv-aids-workplace-policy",
-      "id": "904f456a91f9cffcf93ea3f4746ed424566f9e4c"
+      "id": "5019c07643ad28f9b3d4d04f94c70a588b1f6050"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/indigo-green.html?linkNav=indigo-green_footer",
+      "url": "https://www.goindigo.in/information/indigo-green.html?linkNav=IndiGo%20Green%20%E2%80%93%20ESG%20report%7CGet%20to%20Know%20Us%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/indigo-green",
-      "id": "40bd669446d372b948d7a3545edb83ee22428b56"
+      "id": "967aed434fd1bd6d9d383ae1cce43ec9e8dbf6f8"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/inter-globe-enterprises.html?linkNav=inter-globe-enterprises_footer",
-      "source": "CRAWL",
-      "targetPath": "/information/inter-globe-enterprises",
-      "id": "e3042aabfba70123b83a5dd7dd6d34ed3048d479"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/investor-relations.html?linkNav=investor-relations_footer",
+      "url": "https://www.goindigo.in/information/investor-relations.html?linkNav=Investor%20Relations%7CCOMPANY%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/investor-relations",
-      "id": "ea4750b3e6bb6225dc15df1cc107ae6d1350c95f"
+      "id": "8706cc18750b8dfbf697dc8790962197c8e24c2f"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/investor-relations.html?linkNav=investor-relations_hamburger~other",
+      "url": "https://www.goindigo.in/information/maldives-airport-tax-refund-process.html?linkNav=Tax%20exemption%7CSUPPORT%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/information/investor-relations",
-      "id": "316a548dc33f3b4438a9f8c6129ea2cc8545e853"
+      "targetPath": "/information/maldives-airport-tax-refund-process",
+      "id": "9c842980394ff9642bf5923af8a7ce7a04dc1da1"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/mobile.html?linkNav=download-app_hamburger~other",
+      "url": "https://www.goindigo.in/information/mobile.html?linkNav=Download%20app%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/mobile",
-      "id": "25daead02aeed156d708aa64536b8afc9b4e1d34"
+      "id": "0c97913c0c4686d5b0b6cf83c98d1f4f96634627"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/privacy.html?linkNav=privacy_footer",
+      "url": "https://www.goindigo.in/information/privacy.html",
       "source": "CRAWL",
       "targetPath": "/information/privacy",
-      "id": "67cce0f74e57c1c53eb3c69515ee09c6615614a1"
+      "id": "830aa7aaf5f9802c7cade506ea978151c4bd88a2"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance.html?linkNav=special-assistance_hamburger~info-on-the-go~special-assistance",
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/information/special-disability-assistance",
-      "id": "d5fd3bfd3925be00797c811af619e1b2a248691d"
+      "targetPath": "/information/privacy",
+      "id": "4026d0c2ae5bfcce3bbcba95f97f4b3cca623f94"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance.html?linkNav=special-disability-assistance_footer",
-      "source": "CRAWL",
-      "targetPath": "/information/special-disability-assistance",
-      "id": "3c4f4bea4625f2fcab715320e00b818ac7a29f2e"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance/disability-assistance.html?linkNav=disability-assistance_hamburger~info-on-the-go~special-assistance",
-      "source": "CRAWL",
-      "targetPath": "/information/special-disability-assistance/disability-assistance",
-      "id": "01b5e8cc38f42a72af0d4f446f14c12a671d2691"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/special-disability-assistance/special-assistance.html?linkNav=special-assistance_hamburger~info-on-the-go~special-assistance",
-      "source": "CRAWL",
-      "targetPath": "/information/special-disability-assistance/special-assistance",
-      "id": "f720cd2528a86d8ba1471c2f8b7ad487a26b4f05"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/terms-and-conditions.html?linkNav=terms-and-conditions_footer",
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20%26%20condition%20%7C%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/terms-and-conditions",
-      "id": "b4ffc9ae4c79721b4e77c11c7f435c4fabe7cc42"
+      "id": "66779f0ab137797c9b36d3dd1bea3974ecb8713e"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/transgender-person-policy.html?linkNav=transgender-person-policy_footer",
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7COther%20information%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/information/transgender-person-policy",
-      "id": "01d63ffb2fb4a5f044e7cd603335a7a155247fd6"
+      "targetPath": "/information/terms-and-conditions",
+      "id": "bdfc7b3ab58f55a4b18a37cafd63fe2d19962ae8"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/information/useful-tips-for-your-international-flight.html?linkNav=useful-tips-for-your-international-flight_footer",
+      "url": "https://www.goindigo.in/information/useful-tips-for-your-international-flight.html?linkNav=International%20Travel%20Tips%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/useful-tips-for-your-international-flight",
-      "id": "259eacbcb3a8a58da1701345d9fce330e265e786"
+      "id": "f104ee0eb1f84cf0fce5f0ebe3a048cd021b9eb6"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/initiate-refund.html?linkNav=initiate-refund_footer",
-      "source": "CRAWL",
-      "targetPath": "/initiate-refund",
-      "id": "9e8c36658d37e8b60b6e32f197690213aa90e548"
-    },
-    {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/interest-on-credit-shell.html?linkNav=interest-on-credit-shell_hamburger~flight",
+      "url": "https://www.goindigo.in/interest-on-credit-shell.html?linkNav=Interest%20on%20credit%20shell%7CFlights%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/interest-on-credit-shell",
-      "id": "2496af6efbe8c0c0fe748cd2aa90783731ed6766"
+      "id": "7bfe5695a4ce8f9d2aeea8e1d75e9ccc6d59bf05"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/member/member-profile.html",
+      "url": "https://www.goindigo.in/international-destinations/amsterdam.html",
       "source": "CRAWL",
-      "targetPath": "/member/member-profile",
-      "id": "13bd913dc349a7a32044c82edb346d581b415731"
+      "targetPath": "/international-destinations/amsterdam",
+      "id": "b16ccf4314bfd2e0d804a77d8f8e9cd68a446bfc"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/member/member-profile.html?linkNav=my-account-and-settings_hamburger~other",
+      "url": "https://www.goindigo.in/international-flights/flights-to-amsterdam.html",
       "source": "CRAWL",
-      "targetPath": "/member/member-profile",
-      "id": "8c2d84fce2d367b2b0bb431c5c8efd9231bd2594"
+      "targetPath": "/international-flights/flights-to-amsterdam",
+      "id": "89248b6e2204047f3076620b5ce9fb5999ec56c4"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/member/registration.html",
+      "url": "https://www.goindigo.in/kiosk-check-in.html",
       "source": "CRAWL",
-      "targetPath": "/member/registration",
-      "id": "64415445932b67414689bb42c01409bb117554d9"
+      "targetPath": "/kiosk-check-in",
+      "id": "6c4b4b521d2901a6767b2fab023fd6adaa73536f"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/member/reset-password.html",
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html?linkNav=Redeem%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
       "source": "CRAWL",
-      "targetPath": "/member/reset-password",
-      "id": "fc416c4e7523fedcd2c9c61946a41e76e99df321"
+      "targetPath": "/loyalty/dashboard/how-to-burn-points",
+      "id": "cf233ca45c8947e7a11552a21a455bef6bcbec18"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html",
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html",
+      "source": "CRAWL",
+      "targetPath": "/loyalty/dashboard/how-to-earn-points",
+      "id": "fb0f2b2cf94cd9a7dcc8ab8681ea5f97f599110c"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html?linkNav=Earn%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
+      "source": "CRAWL",
+      "targetPath": "/loyalty/dashboard/how-to-earn-points",
+      "id": "8cd320a7ea68bda22bd28a0f1b58ff0b9b624d3f"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/faq.html?linkNav=FAQ%7CDISCOVER%7CIndiGo%20BluChip",
+      "source": "CRAWL",
+      "targetPath": "/loyalty/faq",
+      "id": "f966884414056ffaa00bf4f6875edf8951161839"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/partners.html?linkNav=%7CIndiGo%20BluChip%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/loyalty/partners",
+      "id": "bf7868655e891365f21638497aa044f9420587f4"
+    },
+    {
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Change%2C%20cancel%20or%20refund%7CPlan%20B%7CTrips",
       "source": "CRAWL",
       "targetPath": "/plan-b",
-      "id": "285b168bb52ab8c7f2699f00927b1ff04f240342"
+      "id": "2af3c19f79fc99363cfc2c9e31ee4f35a0b0988f"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html?linkNav=plan-b_footer",
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/plan-b",
-      "id": "25bd0cf1e4ca26992f90de1caa9dee282d06b21a"
+      "id": "ed75d05509cd37a4337179e9f303017357be0d62"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/plan-b.html?linkNav=Plan%20B%7CManage%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7CManage%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/plan-b",
-      "id": "80595d58761c8b0e435c02b793c678fa7623b8a9"
+      "id": "76390e08ac9a55a60144d39f9b3ea175ebba0573"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/press-releases.html?linkNav=press-releases_footer",
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7CSUPPORT%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/press-releases",
-      "id": "93901b68dac234deaee6986b5d6b83df6413cbee"
+      "targetPath": "/plan-b",
+      "id": "9e237be254fb1317c221b9f9de8523ee7da8a6c1"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/print-baggage-tags.html",
+      "url": "https://www.goindigo.in/print-baggage-tags.html",
       "source": "CRAWL",
       "targetPath": "/print-baggage-tags",
-      "id": "98f6cd69bf945329c0c6e69b6f256403d673781d"
+      "id": "5a600f488b8da10aa998d4d2c8a352c9b8dfa98e"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tag%7CManage%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tag%7CManage%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/print-baggage-tags",
-      "id": "65d439935715cbe6f84df8016260501930dc64f3"
+      "id": "4fa3843ae8e69755dff653fb81e27d6302a3d9c0"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/sitemap.html?linkNav=sitemap_footer",
+      "url": "https://www.goindigo.in/refund.html",
+      "source": "CRAWL",
+      "targetPath": "/refund",
+      "id": "1bc1798906cff9e0786173fda7bd77b85eeb53b3"
+    },
+    {
+      "url": "https://www.goindigo.in/sale.html",
+      "source": "CRAWL",
+      "targetPath": "/sale",
+      "id": "d0b794228e60517823f4e19a474c1b394ae94c30"
+    },
+    {
+      "url": "https://www.goindigo.in/sale.html?linkNav=rblsale_tile_under_book_section",
+      "source": "CRAWL",
+      "targetPath": "/sale",
+      "id": "149668274909c8105c0cde142cde9813d93a332b"
+    },
+    {
+      "url": "https://www.goindigo.in/sightseeing/manage-booking.html?linkNav=Sight%20Seeing%7CMy%20Orders%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/sightseeing/manage-booking",
+      "id": "a46e4726bd7f3b414fd43a6852e42ec32b2bb271"
+    },
+    {
+      "url": "https://www.goindigo.in/sitemap.html?linkNav=Site%20map%7C%7CFooter",
       "source": "CRAWL",
       "targetPath": "/sitemap",
-      "id": "333b541eee1a15c91ef46433bf97e00add7d43eb"
+      "id": "f493214af25a17a7b7c21c1adf64784f5ac05c92"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en.html?linkNav=FAQs_hamburger~info-on-the-go",
+      "url": "https://www.goindigo.in/sitemap.html?linkNav=Sitemap%7CQUICK%20LINKS%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "4466f3e981be7a9fef8443edac0257962efc8601"
+    },
+    {
+      "url": "https://www.goindigo.in/submit-passenger-details-arriving-india.html?linkNav=Submit%20International%20Passenger%20Details%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/submit-passenger-details-arriving-india",
+      "id": "35f76394e9f9c4622d1effba4df98414399bfa2a"
+    },
+    {
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQ%27s%7CSUPPORT%7CFooter",
       "source": "CRAWL",
       "targetPath": "/travel-information/en",
-      "id": "5cbbfcf81e4beb41ef6db59f841be14abaa0ba42"
+      "id": "2fba2f704d3558215e53fada05b3006500a29c19"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en.html?linkNav=FAQs_Header~info",
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQs%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/travel-information/en",
-      "id": "46e551ad4963c8986f33054f32ac2b4b73cf23e0"
+      "id": "c6feb63a24a75adf3e73e774919e2f3b2551fcce"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/travel-information/en/add-on-services.en-2ea8afda83ea41dda1b965ad8e1ceb53.html?linkNav=6e-special_hamburger~Services-and-offers~Add-on-services",
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQs%7CINFORMATION%20ON%20THE%20GO%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/travel-information/en/add-on-services-en-2ea8afda83ea41dda1b965ad8e1ceb53",
-      "id": "91a8403b329ba7c0bc2d2c2560e6d665069d9872"
+      "targetPath": "/travel-information/en",
+      "id": "e92475938ff63b000a61a443b08644639d32e7f0"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/update-contact-details.html?linkNav=update-contact-details_hamburger~flight",
+      "url": "https://www.goindigo.in/upgrade-bookings.html?linkNav=Upgrade%20booking%7CMy%20trips%7CTrips",
       "source": "CRAWL",
-      "targetPath": "/update-contact-details",
-      "id": "ac74e33815db0fb4993691d9ef9554c25b90228e"
+      "targetPath": "/upgrade-bookings",
+      "id": "80781d9da6abb0928d9f40b9d0cc4d277810c5c7"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/view-gst-invoice.html?linkNav=view-gst-invoice_hamburger~flight",
+      "url": "https://www.goindigo.in/view-gst-invoice.html?linkNav=View%20GST%20Invoice%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/view-gst-invoice",
-      "id": "d8b4316e7645b4f7d39c74abc97750955b316517"
+      "id": "c677145fabbd2490fbe4435c47f6e3501c4180a1"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=check-in_Header~Check-In",
+      "url": "https://www.goindigo.in/web-check-in.html",
       "source": "CRAWL",
       "targetPath": "/web-check-in",
-      "id": "b6c51277dd06837c926d55cc1fb6a6a3ce1a4fca"
+      "id": "77e107143b23771b39e8e09b1a21e869c10ff340"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=Check-in%7C%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Check-in%7C%7CHeader",
       "source": "CRAWL",
       "targetPath": "/web-check-in",
-      "id": "6d8eb50f0ae70fdc821a78a0931f36aec27eea7a"
+      "id": "ec72cfd6141a0ffcff8bb942340fa0a0d29bf01f"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/web-check-in.html?linkNav=web-check-in_footer",
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Check-in%7C%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/web-check-in",
-      "id": "c3841a82cb6b304bcfbb51c6b5529524576dc87a"
+      "id": "cefe2f41280df5f872e61931ebe51b2d4bb11c81"
     }
   ],
   "crawlOptions": {
@@ -626,44 +614,552 @@
   },
   "extractionErrors": [
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/homepage.html",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/"
+      "url": "https://www.goindigo.in/partner-login.html?linkNav=Partner%20Login%7CFlights%7CHamburger",
+      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/agent.html?linkNav=Partner%20Login%7CFlights%7CHamburger"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/partner-login.html?linkNav=partner-login_header",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/agent.html?linkNav=partner-login_header"
+      "url": "https://www.goindigo.in/flight-booking.html",
+      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/flights"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/get-inspired?linkNav=get-inspired_hamburger~info-on-the-go~explore-our-destinations.html",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/get-inspired.html?linkNav=get-inspired_hamburger~info-on-the-go~explore-our-destinations.html"
+      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Book%7C%7CHeader%20Menu",
+      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/flights?linkNav=Book%7C%7CHeader%20Menu"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/indian-destinations?linkNav=indian-destinations_hamburger~info-on-the-go~explore-our-destinations.html",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/indian-destinations.html?linkNav=indian-destinations_hamburger~info-on-the-go~explore-our-destinations.html"
+      "url": "https://www.goindigo.in/loyalty/term-conditions.html",
+      "status": "302 Moved Temporarily Redirect: https://www.goindigo.in/loyalty/terms-and-conditions.html"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/international-destinations?linkNav=international-destinations_hamburger~info-on-the-go~explore-our-destinations.html",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/content/indigo/in/en/international-destinations.html?linkNav=international-destinations_hamburger~info-on-the-go~explore-our-destinations.html"
+      "url": "https://www.goindigo.in/destinations/international-destinations/amsterdam.html",
+      "status": "fetch failed"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/content/indigo/sme/en.html?linkNav=en_header",
-      "status": "301 Moved Permanently Redirect: http://beta-prod-skyplus6e.goindigo.in/corp-admin.html?linkNav=en_header"
+      "url": "https://www.goindigo.in/?linkNav=Logo%7C%7CHeader",
+      "status": "fetch failed"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/check-refund-status.html?linkNav=check-refund-status_hamburger~flight",
-      "status": "404 Not Found"
+      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Flight%7CBook%7CBook",
+      "status": "fetch failed"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/6e-flex.html?linkNav=6e-flex_hamburger~Services-and-offers~Add-on-services",
-      "status": "404 Not Found"
+      "url": "https://www.goindigo.in/sightseeing.html?linkNav=Sight%20Seeing%7CBook",
+      "status": "fetch failed"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/add-on-services/indigo-promise.html?linkNav=indigo-promise_hamburger~Services-and-offers~Add-on-services",
-      "status": "404 Not Found"
+      "url": "https://www.goindigo.in/experiences.html?linkNav=experiences%7CBook",
+      "status": "fetch failed"
     },
     {
-      "url": "https://beta-prod-skyplus6e.goindigo.in/etc/designs/indigo/clientlib-global/site-icons/site.webmanifest",
-      "status": "content type is not text/html"
+      "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7CFlightsHPBookheader%7CBookHotelBanner",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7CChange%20your%20journey%7CTrips",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/cancellation.html?linkNav=Cancel%20flight%7CChange%20your%20journey%7CTrips",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=6E%20Add-ons%2C%20Services%20and%20Fares%7CCustomise%20your%20journey%7CTrips",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7COther%7CTrips",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/view-gst-invoice.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/campaigns/indigo-offers.html?linkNav=Deals%20and%20Offers%7C%7CHeader",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Loyalty%20Dashboard%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/ilp.html?linkNav=About%20IndiGo%20BluChip%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/tier-benefits.html?linkNav=Tiers%20%26%20Benefits%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/terms-and-conditions.html?linkNav=Terms%20%26%20Conditions%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard/retro-claim.html?linkNav=Retro%20Claim%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/scratch-card.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7CYour%20Information%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us.html?linkNav=About%20us%7COther%20information%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/whatsapp-support.html?linkNav=WhatsApp%7COther%20information%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=Help%20and%20FAQs%7COther%20information%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/experiences/manage-booking.html?linkNav=experiences%7CMy%20Orders%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/ilp.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/tier-benefits.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/faq.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/partners.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Dashboard%7CProfile%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/account/nominees.html?linkNav=My%20Nominees%7CProfile%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/?linkNav=Log%20Out%7CProfile%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/agent.html?linkNav=Travel%20partner%E2%80%8B%7CHello%20there%2C%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-bookings.html?linkNav=My%20trips%7C%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/member/member-profile.html?linkNav=Profile%7C%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/destinations.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/visa-information/schengen-eu-visa.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/visa-information/netherlands-nl-visa.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/get-inspired/why-visit-athens.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us.html?linkNav=About%20us%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/indigo-green.html?linkNav=IndiGo%20Green%20%E2%80%93%20ESG%20report%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/diversity-equity-and-inclusion.html?linkNav=6E%20Embrace%20-%20Diversity%20Equity%20%26%20Inclusion%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/board-of-directors.html?linkNav=Board%20of%20Directors%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/inter-globe-enterprises.html?linkNav=InterGlobe%20Enterprises%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/equal-opportunity-policy.html?linkNav=RPWD%20-%20Equal%20Opportunity%20Policy%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/transgender-person-policy.html?linkNav=Transgender%20Persons%20Policy%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html?linkNav=Seat%2FAircraft%20information%7CCOMPANY%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/special-disability-assistance.html?linkNav=Special%2FDisability%20Assistance%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services/seat-plus.html?linkNav=Seat%20Select%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services/food-menu.html?linkNav=6E%20Eats%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/initiate-refund.html?linkNav=Refund%20Claim%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7Cfooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/support.html?linkNav=6Eskai%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/careers.html?linkNav=careers_footer",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us/query-form-alliances.html?linkNav=Advertise%20with%20us%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels/resource?tab=terms_n_condition",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels/resource?tab=contact_us",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/cancellation.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20carriage%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20check-in%20advisory%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/purchase-requirement.html?linkNav=Purchase%20requirement%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/domestic-flights.html?linkNav=Domestic%20Flights%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/international-flights.html?linkNav=International%20Flights%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/passenger-charter.html?linkNav=passenger-charter_information%7Esitemap&linkNav=Passenger%20Charter%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/press-releases.html?linkNav=Press%20releases%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Our%20awards%20%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/customer-testimonial.html?linkNav=Testimonials%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/campaigns/hello-6e.html?linkNav=Hello%206E%20Magazine%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Best%20Low%20Cost%20Airline-Central%20Asia%7C3%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Cookie%20Policy%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Cyber%20security%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=%3Cp%3E6E%20Add-ons%20and%20Services%3C%2Fp%3E%0D%0A%7C%7CCards",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/content/skyplus6e/in/en/plan-b",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/boarding-pass.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/careers.html?linkNav=Careers%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/mice-query-form.html?linkNav=MICE%20Queries%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/upgrade-bookings.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us/feedback.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/edit-booking.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/flights",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/app-check-in.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/update-contact-details.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/submit-passenger-details-arriving-india.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/plan-b.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/booking-information.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/content/skyplus6e/in/en/upgrade-bookings",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels?linkNav=FlightEditBookingpage%7CHotelbanner",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/fees-and-charges.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services/sports-equipment-handling-fees.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/plan-b..html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7CManage%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/change-flight.html?linkNav=Change%20Flight%7CManage%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/destinations.html?linkNav=Destination%7CInfo%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20Carriage%7CInfo%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/baggage.html?linkNav=Baggage%7CInfo%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/corona-virus-travel-restrictions.html?linkNav=COVID-19%20queries%7CInfo%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7CInfo%7CHeader%20Menu",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20Check-in%7CFlights%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=View%2FEdit%20Booking%28s%29%7CFlights%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/update-contact-details.html?linkNav=Update%20Contact%20Details%7CFlights%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/view-gst-invoice.html?linkNav=View%20GST%20Invoice%7CFlights%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/campaigns/indigo-offers.html?linkNav=Offers%7CServices%20%26%20Offers%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/destinations.html?linkNav=Our%20Destinations%7CServices%20%26%20Offers%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/special-disability-assistance/special-assistance.html?linkNav=Special%20Assistance%7CINFORMATION%20ON%20THE%20GO%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/mobile.html?linkNav=Download%20App%7COthers%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/member/member-profile.html?linkNav=My%20Account%20&%20Settings%7COthers%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us/query-form-alliances.html?linkNav=Advertise%20with%20us%7COthers%7CHamburger",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Flight%20Booking%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20check-in%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/auto-check-in.html?linkNav=Auto%20Check-in%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/kiosk-check-in.html?linkNav=Kiosk%20Check-in%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tags%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/update-contact-details.html?linkNav=Update%20Contact%20Details%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/refund.html?linkNav=Refund%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Tracker%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/booking-information.html?linkNav=Booking%20Information%7C%7CPlan%20your%20travel",
+      "status": "fetch failed"
     }
   ]
 }
