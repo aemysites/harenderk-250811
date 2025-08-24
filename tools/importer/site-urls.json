@@ -1,13 +1,31 @@
 {
   "originUrl": "https://www.goindigo.in",
   "aborted": false,
-  "lastCrawled": "https://www.goindigo.in/indian-destinations/amritsar.html",
+  "lastCrawled": "https://www.goindigo.in/international-destinations/amsterdam.html",
   "urls": [
     {
-      "url": "https://www.goindigo.in/",
+      "url": "https://www.goindigo.in/?status=logout&linkNav=Log%20out%7COthers%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/",
-      "id": "830a91c59c121d93daccc5081869f75be7d81179"
+      "id": "52df1979d5f4b67f0ec47145532dfa6a20a02ce5"
+    },
+    {
+      "url": "https://www.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7C%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "4978ee92cdd5cd4919910739e5681e80435fb8b8"
+    },
+    {
+      "url": "https://www.goindigo.in/6e-rewards.html?linkNav=6E%20Rewards%7CFlights%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/6e-rewards",
+      "id": "c19acdebc3f6f2099c35eff875524b3d7b7a68d1"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us.html?linkNav=About%20us%7CGet%20to%20Know%20Us%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/about-us",
+      "id": "34efcd98c624cf4337df0cb303eee0fca0a7acc6"
     },
     {
       "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Best%20Low%20Cost%20Airline-Asia%7C1%7CFooter",
@@ -16,64 +34,70 @@
       "id": "5895c4227c8a13be35e66c58f848fa2bdb8ea67a"
     },
     {
-      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Best%20Low%20Cost%20Airline-Central%20Asia%7C3%7CFooter",
-      "source": "CRAWL",
-      "targetPath": "/about-us/awards",
-      "id": "61833bb20ed6740a3145156d18aec4c5a4a11f28"
-    },
-    {
       "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Passenger%20Choice%20Awards%7C2%7CFooter",
       "source": "CRAWL",
       "targetPath": "/about-us/awards",
       "id": "62aaba0e6b9721257a37b11ab68b1cbbb30ae1f6"
     },
     {
-      "url": "https://www.goindigo.in/about-us/board-of-directors.html?linkNav=Board%20of%20Directors%7CCOMPANY%7CFooter",
+      "url": "https://www.goindigo.in/about-us/diversity-equity-and-inclusion.html?linkNav=6E%20Embrace%20-%20Diversity%20Equity%20%26%20Inclusion%7CGet%20to%20Know%20Us%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/about-us/board-of-directors",
-      "id": "37ceff3947c4505a8c73f2b7ed6f30b390a1bfa3"
+      "targetPath": "/about-us/diversity-equity-and-inclusion",
+      "id": "9ce1dfd6f43173263c4fecfe4e0811a99d2cc3ad"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services.html",
+      "url": "https://www.goindigo.in/about-us/leadership-team.html?linkNav=Leadership%20Team%7CCOMPANY%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/about-us/leadership-team",
+      "id": "8fc9adcf087c41e2742c9714614e9f83bea0a234"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-bookings.html",
+      "source": "CRAWL",
+      "targetPath": "/account/my-bookings",
+      "id": "3048feec487b76e0b71f4c494178a1cc7b78d065"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-bookings.html?linkNav=Find%20%26%20view%20booking%7CMy%20trips%7CTrips",
+      "source": "CRAWL",
+      "targetPath": "/account/my-bookings",
+      "id": "43ee3a0d00459abd0b8d99431b43e3dbda3d59b0"
+    },
+    {
+      "url": "https://www.goindigo.in/account/my-profile.html?linkNav=My%20Profile%7CProfile%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/account/my-profile",
+      "id": "61e0aca48e6327c447f43294faff11274d833979"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=%3Cp%3EAdd%20Baggage%20%20Tags%3C%2Fp%3E%0D%0A%7C%7CCards",
       "source": "CRAWL",
       "targetPath": "/add-on-services",
-      "id": "322a8da6f06f2954c980cb3eca47f9ecd3f5e5a5"
+      "id": "47105979460b96d44ff55d2f86d0d180c132589a"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services.html?linkNav=6E%20Add-ons%2C%20Services%20and%20Fares%7CCustomise%20your%20journey%7CTrips",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/add-on-services",
-      "id": "b5f86ce4cfef0bf8d4a45cbad7a51c9dba234280"
+      "id": "bf8c7d9adf7e56ac864d6d171a8248253b95e0c6"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/6e-bar.html",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/6e-bar",
-      "id": "7432d70ccb3ebe36f85818196a8b3f6efe76fdf3"
+      "targetPath": "/add-on-services",
+      "id": "b65fb355165dee0f8cf6e05b55498c5250192add"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/6e-seat-and-eat.html",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CServices%20%26%20Offers%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/6e-seat-and-eat",
-      "id": "1f089a955f64e98a98fba307211fbabbec6a2e15"
+      "targetPath": "/add-on-services",
+      "id": "989c83c49a7a920277405f2dfb8331ac6d15e3f5"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/armed-forces.html",
+      "url": "https://www.goindigo.in/add-on-services/6e-prime.html",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/armed-forces",
-      "id": "5dd0ddb29dd9d4a0bf2935d3c904ef48456c28df"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/blanket-pillow-eye-shade.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/blanket-pillow-eye-shade",
-      "id": "f0ff37cf8d33ae91d8b06deaff66e2c9a12cf5ea"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/delayed-and-lost-baggage-protection.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/delayed-and-lost-baggage-protection",
-      "id": "372261043b3040dd891a6913c68fcae5e95d2212"
+      "targetPath": "/add-on-services/6e-prime",
+      "id": "971a3803f17a875d810e7b3deca2cc97b85272b3"
     },
     {
       "url": "https://www.goindigo.in/add-on-services/excess-baggage.html",
@@ -82,64 +106,22 @@
       "id": "4233041f4f870ecf68a8bc85d342c0815588a550"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/flexi-fares.html",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/flexi-fares",
-      "id": "892a4a15fa6700c3518299d56f14434f0de704b5"
+      "targetPath": "/aircraft-and-fleet",
+      "id": "76aba140bc749f0b0d1d5588bd07523b5fcddab3"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/food-menu.html",
+      "url": "https://www.goindigo.in/airport-directory/netherlands/amsterdam-ams.html",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/food-menu",
-      "id": "6e87c27f67ef0977af71820fa2c13d3d0b6c60a4"
+      "targetPath": "/airport-directory/netherlands/amsterdam-ams",
+      "id": "40040f2482570983034e98633fc167871348f4ce"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/food-menu.html?linkNav=6E%20Eats%7CSUPPORT%7CFooter",
+      "url": "https://www.goindigo.in/app-check-in.html?linkNav=App%20Check-in%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
-      "targetPath": "/add-on-services/food-menu",
-      "id": "1778947e367d21f2c5c79573492470beb089b1f6"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/free-cancellation-insurance.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/free-cancellation-insurance",
-      "id": "e0e53bfbcd3e1fa610d5f00c8c32d3a2e29cf9c2"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/indigo-early.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/indigo-early",
-      "id": "6b3e3fd15b7c8d87ab25850707e9c81e34bac042"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/infants.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/infants",
-      "id": "fd3da0193d7f10f8a543d6b1133f4b89f4f2d9f8"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/senior-citizen-discount.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/senior-citizen-discount",
-      "id": "77d2c7a753b34098bd13c869b478183ee8159ad6"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/super-6e-fare.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/super-6e-fare",
-      "id": "b206a5dd4087d8f24a22876d33cc20e55b93d710"
-    },
-    {
-      "url": "https://www.goindigo.in/add-on-services/unaccompanied-minor.html",
-      "source": "CRAWL",
-      "targetPath": "/add-on-services/unaccompanied-minor",
-      "id": "0e682d055f40061e57071a4bbfb70601ab4ecbd0"
-    },
-    {
-      "url": "https://www.goindigo.in/agent.html?linkNav=Travel%20partner%E2%80%8B%7CHello%20there%2C%7CHeader%20Menu",
-      "source": "CRAWL",
-      "targetPath": "/agent",
-      "id": "8b48a000b04221da8432435a8ac6aa9465fa91c7"
+      "targetPath": "/app-check-in",
+      "id": "95b3d24ba33d16b8c3004ff6cdd5e2a249e82ed1"
     },
     {
       "url": "https://www.goindigo.in/auto-check-in.html",
@@ -154,22 +136,10 @@
       "id": "57d89709506537ecce1a943290d26757fa3ca2d5"
     },
     {
-      "url": "https://www.goindigo.in/boarding-pass.html",
+      "url": "https://www.goindigo.in/boarding-pass.html?linkNav=Boarding%20Pass%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/boarding-pass",
-      "id": "48f24d4bfa1b954293ca26a8567de005b64a8e4a"
-    },
-    {
-      "url": "https://www.goindigo.in/booking-information.html",
-      "source": "CRAWL",
-      "targetPath": "/booking-information",
-      "id": "46a6591e65b9dbf042786e3226ebfda0833fb0ac"
-    },
-    {
-      "url": "https://www.goindigo.in/campaigns/hello-6e.html?linkNav=Hello%206E%20Magazine%7CMEDIA%7CFooter",
-      "source": "CRAWL",
-      "targetPath": "/campaigns/hello-6e",
-      "id": "675c19d12b0feab7b141f658f60383ca1cdd58d7"
+      "id": "50b004a60008819d3fb6fbfccb4fe71a6e59850e"
     },
     {
       "url": "https://www.goindigo.in/campaigns/indigo-offers.html?linkNav=Offers%7CQUICK%20LINKS%7CFooter",
@@ -178,172 +148,58 @@
       "id": "cfd2b1a15518fd28f9996598f2a7995d19b4c28f"
     },
     {
-      "url": "https://www.goindigo.in/campaigns/indigo-offers/6e-bagport.html",
-      "source": "CRAWL",
-      "targetPath": "/campaigns/indigo-offers/6e-bagport",
-      "id": "359b2ebc5636bade6101147e22d60170bda0d733"
-    },
-    {
-      "url": "https://www.goindigo.in/cancellation.html?linkNav=Cancel%20flight%7CChange%20your%20journey%7CTrips",
+      "url": "https://www.goindigo.in/cancellation.html?linkNav=Cancellation%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
       "targetPath": "/cancellation",
-      "id": "b099d65b17957a37d0637459bfc8ec169b812c5b"
+      "id": "21ee004c5bd6a1c92b4e316b39ffc353465ecb71"
     },
     {
-      "url": "https://www.goindigo.in/cancellation.html?linkNav=How%20it%20works%7C%7CCard%20Comparision%20Details",
+      "url": "https://www.goindigo.in/change-flight.html",
       "source": "CRAWL",
-      "targetPath": "/cancellation",
-      "id": "9d798e2ab31dfe93ab33d91c7112246bd0df57c2"
+      "targetPath": "/change-flight",
+      "id": "511e7d76244cb0a30d5a1b568144bf5884d431e8"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7COther%7CTrips",
+      "url": "https://www.goindigo.in/change-flight.html?linkNav=Change%20flight%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/change-flight",
+      "id": "5349aec7c363c6961acf11172060e3d3e1ff208b"
+    },
+    {
+      "url": "https://www.goindigo.in/charters.html?linkNav=Charter%20Services%7CSUPPORT%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/charters",
+      "id": "3a3cbf2e967eaf4260705b8358268d06a5842701"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html",
       "source": "CRAWL",
       "targetPath": "/check-flight-status",
-      "id": "d4e19b348be74a7c3b31e02ba7927a4604ded81b"
+      "id": "78f8943822d68412e201f07a9aaeaa321ca59de7"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7CQUICK%20LINKS%7CFooter",
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CFlights%7CHamburger",
       "source": "CRAWL",
       "targetPath": "/check-flight-status",
-      "id": "5aa836ea2f7c8a4a2013c3963b05c2162e030da0"
+      "id": "7dacede15b3b6addd1a8b162fcd62b60d05aacb5"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/bangkok-to-bengaluru.html",
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Status%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
-      "targetPath": "/check-flight-status/bangkok-to-bengaluru",
-      "id": "fed52581755eb3f20960ab5b5d394e7d748e1626"
+      "targetPath": "/check-flight-status",
+      "id": "e43e532bdda726198d6a637c3f163c9eb9b37416"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/bengaluru-to-doha.html",
+      "url": "https://www.goindigo.in/check-refund-status.html",
       "source": "CRAWL",
-      "targetPath": "/check-flight-status/bengaluru-to-doha",
-      "id": "3b5009d7120e8105698da748d5f7b4b5084cb8b8"
+      "targetPath": "/check-refund-status",
+      "id": "1c9b950951a9ff069088381d4c64499cbf45bfc1"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/chandigarh-to-delhi.html",
+      "url": "https://www.goindigo.in/check-refund-status.html?linkNav=Check%20Refund%20Status%7CFlights%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/check-flight-status/chandigarh-to-delhi",
-      "id": "92b92a817fee056a6eb85d4c2c88427c0e1c559d"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-delhi.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/chennai-to-delhi",
-      "id": "d1ab2e26a0b8f29a7f4dca3c896ab17c3dd7b7c6"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-ahmedabad.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/delhi-to-ahmedabad",
-      "id": "906e6a3e7e6529cabcb375c62f14b24654f8accf"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-doha.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/delhi-to-doha",
-      "id": "325e4c0acef50ba617203ae608e43f72fc2bfd47"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-indore.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/delhi-to-indore",
-      "id": "251da5267c4ebaf00afee14ae1dde00d8c8912a4"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-srinagar.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/delhi-to-srinagar",
-      "id": "eaa0f62ae4700c3e209bf457ce2c3d3e6e1d0471"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-mumbai.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/doha-to-mumbai",
-      "id": "0d382c7b674e7433f1c016706c4ddc0cd2f96e15"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/dubai-to-chennai.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/dubai-to-chennai",
-      "id": "56143790043256c180c89be71f397e5182496150"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/dubai-to-hyderabad.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/dubai-to-hyderabad",
-      "id": "9ff398b10b5baaec023c0cf0c152dca26c9dacdb"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/hyderabad-to-doha.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/hyderabad-to-doha",
-      "id": "2d748ae70fb8b08b61aeb22cf044d9158319672f"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/kolkata-to-delhi.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/kolkata-to-delhi",
-      "id": "47b9910f7fd1627d8bdbb34d727c1e282a4fa710"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/kolkata-to-mumbai.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/kolkata-to-mumbai",
-      "id": "2badee404bca2828b2c3167ca58f5b5fd4ed9ef6"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/mumbai-to-chennai.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/mumbai-to-chennai",
-      "id": "063b33a7c4a9577210a6d88d15136432623d369d"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/mumbai-to-delhi.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/mumbai-to-delhi",
-      "id": "c8983b0236b8f054249dac637b653efc11a34158"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/mumbai-to-nagpur.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/mumbai-to-nagpur",
-      "id": "d1b23cd857af867646de06fbf9157190075de9d7"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/nagpur-to-pune.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/nagpur-to-pune",
-      "id": "172f3c04da6ba82fab15f759b6972bc883d17f78"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/pune-to-delhi.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/pune-to-delhi",
-      "id": "55cfca2480315a05d290ea028d742e022f5a962c"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/pune-to-nagpur.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/pune-to-nagpur",
-      "id": "ca7ad18a1635c1c79221c1a39ffb03c5e4bf5807"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/ranchi-to-delhi.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/ranchi-to-delhi",
-      "id": "bdc6693a594c6520409645cf17b3ddd945d3592b"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-ahmedabad.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/singapore-to-ahmedabad",
-      "id": "60eb98ec98bb93f0241feb463955767f48755dc3"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-hyderabad.html",
-      "source": "CRAWL",
-      "targetPath": "/check-flight-status/singapore-to-hyderabad",
-      "id": "1732be68fbb37494c2d9874d7eb1d8bd86bce743"
+      "targetPath": "/check-refund-status",
+      "id": "8b94a947c27befbfae66a1d67cbb5b682e94ffdd"
     },
     {
       "url": "https://www.goindigo.in/check-refund-status.html?linkNav=Refund%20Status%7C%7CPlan%20your%20travel",
@@ -358,10 +214,40 @@
       "id": "95634306d7291560ffe98daf6502ec309735ce02"
     },
     {
+      "url": "https://www.goindigo.in/codeshare-partners.html",
+      "source": "CRAWL",
+      "targetPath": "/codeshare-partners",
+      "id": "2a1866aa79d0876893053121a68ed6a01083e475"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20us%7COther%20information%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "3afad6f7cebd68e191caa9bddb16d1a8ffb3d220"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7COthers%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "d21a8e54ad8af2af440c13a2c21f1bd3fb78b60b"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7CSUPPORT%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "b33528b23f7d0754e791cf41c1d9bbd45acf2b36"
+    },
+    {
       "url": "https://www.goindigo.in/contact-us/feedback.html?linkNav=Send%20Feedback%20CTA%20Title%7C%7CFooter",
       "source": "CRAWL",
       "targetPath": "/contact-us/feedback",
       "id": "be2f8d719105c27639c458fdb649b2ad302499cb"
+    },
+    {
+      "url": "https://www.goindigo.in/corp-admin.html?linkNav=SME%7CHello%20there%2C%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/corp-admin",
+      "id": "5152eca8246453011aea5a68417c446080c56b4c"
     },
     {
       "url": "https://www.goindigo.in/csr.html?linkNav=IndiGoReach%20-%20Our%20CSR%20initiatives%7CCOMPANY%7CFooter",
@@ -370,10 +256,10 @@
       "id": "f205998b285880dd4af248f906ac8cf7f7bd5163"
     },
     {
-      "url": "https://www.goindigo.in/customer-testimonial.html?linkNav=Testimonials%7CMEDIA%7CFooter",
+      "url": "https://www.goindigo.in/csr.html?linkNav=IndiGoReach%20-%20Our%20CSR%20initiatives%7CGet%20to%20Know%20Us%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/customer-testimonial",
-      "id": "cf1563df7a7045ab2c68c80b77f6354697abae25"
+      "targetPath": "/csr",
+      "id": "62ef2cae9203c5305b5bc6f32664cb097050388a"
     },
     {
       "url": "https://www.goindigo.in/destinations.html?linkNav=Destinations%7CQUICK%20LINKS%7CFooter",
@@ -382,22 +268,16 @@
       "id": "20f5c387a719b2fdf37a3acccbd68580efee63ea"
     },
     {
-      "url": "https://www.goindigo.in/domestic-flights/guwahati-to-chennai-flights.html",
-      "source": "CRAWL",
-      "targetPath": "/domestic-flights/guwahati-to-chennai-flights",
-      "id": "61acf63c7940aeefd9148eb89ac847bdeadb9b1b"
-    },
-    {
       "url": "https://www.goindigo.in/edit-booking.html?linkNav=Update%20IndiGo%20BluChip%20Number%7CChange%20your%20journey%7CTrips",
       "source": "CRAWL",
       "targetPath": "/edit-booking",
       "id": "95bf3a7c21160cbfaa3fe8cbf5fdafdf7b3c070d"
     },
     {
-      "url": "https://www.goindigo.in/flights",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Update%20IndiGo%20BluChip%20Number%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
       "source": "CRAWL",
-      "targetPath": "/flights",
-      "id": "70c1265adfcb741d0e8e78b17b009b4710d3d2c8"
+      "targetPath": "/edit-booking",
+      "id": "e83840f127b4950c6ba68504bb3e21310ec58736"
     },
     {
       "url": "https://www.goindigo.in/get-inspired.html?linkNav=Blogs%7CQUICK%20LINKS%7CFooter",
@@ -406,22 +286,28 @@
       "id": "8105fd45fe8a578b651167bb2a34b214dc7badf4"
     },
     {
-      "url": "https://www.goindigo.in/get-inspired/things-to-do-in-jalandhar.html",
+      "url": "https://www.goindigo.in/get-inspired/why-visit-amsterdam.html",
       "source": "CRAWL",
-      "targetPath": "/get-inspired/things-to-do-in-jalandhar",
-      "id": "863eade30f0d42b8499e3a4e3f020d4be020863d"
+      "targetPath": "/get-inspired/why-visit-amsterdam",
+      "id": "ba5966d3f4308b3d0598dbcffb97d74ba537ac8e"
     },
     {
-      "url": "https://www.goindigo.in/get-inspired/why-travel-amritsar-in-winters.html",
+      "url": "https://www.goindigo.in/get-inspired/witness-the-best-of-history-in-top-international-cities.html",
       "source": "CRAWL",
-      "targetPath": "/get-inspired/why-travel-amritsar-in-winters",
-      "id": "f1ead5f924e0c395b640647f70aa2caefd645a8c"
+      "targetPath": "/get-inspired/witness-the-best-of-history-in-top-international-cities",
+      "id": "bdd34888b98d85b28db12af6827187c500152d28"
     },
     {
       "url": "https://www.goindigo.in/hotels",
       "source": "CRAWL",
       "targetPath": "/hotels",
       "id": "2549f42768e43ba0f1992194f3cc6193c2a7894a"
+    },
+    {
+      "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/hotels",
+      "id": "f896ca40ca75372807c3f0bb04bb6cebd83de718"
     },
     {
       "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7CHeader%20Menu",
@@ -436,22 +322,58 @@
       "id": "a4d4aaed133e5783dd1eb9f673c5368483134cf9"
     },
     {
-      "url": "https://www.goindigo.in/indian-destinations/amritsar.html",
+      "url": "https://www.goindigo.in/information.html?linkNav=Additional%20Info%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
-      "targetPath": "/indian-destinations/amritsar",
-      "id": "cca999b7ce0a1b7c6dc1c8ab1ac45bad62aa21a9"
+      "targetPath": "/information",
+      "id": "37c4146c0f68f2d62be0af55a3455af331a1b910"
     },
     {
-      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Cyber%20security%7C%7CFooter",
+      "url": "https://www.goindigo.in/information/credit-shell.html",
       "source": "CRAWL",
-      "targetPath": "/information/disclaimer",
-      "id": "755b88ca0eca5331d9f5690e619e5fc6bce170ad"
+      "targetPath": "/information/credit-shell",
+      "id": "185a8487805f021706f9b673d512e44eaf039b4e"
     },
     {
-      "url": "https://www.goindigo.in/information/fees-and-charges.html",
+      "url": "https://www.goindigo.in/information/credit-shell.html?linkNav=Information%20on%20Credit%20Shell%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/information/credit-shell",
+      "id": "b49ae2f0fdcdb5ab214aed5c92fe4adf4d47823a"
+    },
+    {
+      "url": "https://www.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CCustomise%20your%20journey%7CTrips",
       "source": "CRAWL",
       "targetPath": "/information/fees-and-charges",
-      "id": "53f5aa67711e5638b68f248d55a36bc8562998aa"
+      "id": "9674eda8f1ec635d0bc1965a674db7f8196b5f69"
+    },
+    {
+      "url": "https://www.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CInfo%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/information/fees-and-charges",
+      "id": "49a08ccc1b28a40b18a2379db0e1c168395cdef2"
+    },
+    {
+      "url": "https://www.goindigo.in/information/flight-information.html?linkNav=Weather%20advisory%7COthers%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/information/flight-information",
+      "id": "d55ec3409963b14ce76c9781f9b194f25a026438"
+    },
+    {
+      "url": "https://www.goindigo.in/information/hiv-aids-workplace-policy.html?linkNav=HIV%2FAIDS%20workplace%20policy%7CCOMPANY%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/information/hiv-aids-workplace-policy",
+      "id": "5019c07643ad28f9b3d4d04f94c70a588b1f6050"
+    },
+    {
+      "url": "https://www.goindigo.in/information/indigo-green.html?linkNav=IndiGo%20Green%20%E2%80%93%20ESG%20report%7CGet%20to%20Know%20Us%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/information/indigo-green",
+      "id": "967aed434fd1bd6d9d383ae1cce43ec9e8dbf6f8"
+    },
+    {
+      "url": "https://www.goindigo.in/information/investor-relations.html?linkNav=Investor%20Relations%7CCOMPANY%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/information/investor-relations",
+      "id": "8706cc18750b8dfbf697dc8790962197c8e24c2f"
     },
     {
       "url": "https://www.goindigo.in/information/maldives-airport-tax-refund-process.html?linkNav=Tax%20exemption%7CSUPPORT%7CFooter",
@@ -460,46 +382,64 @@
       "id": "9c842980394ff9642bf5923af8a7ce7a04dc1da1"
     },
     {
-      "url": "https://www.goindigo.in/information/passenger-charter.html?linkNav=passenger-charter_information%7Esitemap&linkNav=Passenger%20Charter%7CQUICK%20LINKS%7CFooter",
+      "url": "https://www.goindigo.in/information/mobile.html?linkNav=Download%20app%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/information/passenger-charter",
-      "id": "393489554ebe907e557a7c30b5d644635fb31ec9"
+      "targetPath": "/information/mobile",
+      "id": "0c97913c0c4686d5b0b6cf83c98d1f4f96634627"
     },
     {
-      "url": "https://www.goindigo.in/information/purchase-requirement.html?linkNav=Purchase%20requirement%7CQUICK%20LINKS%7CFooter",
+      "url": "https://www.goindigo.in/information/privacy.html",
       "source": "CRAWL",
-      "targetPath": "/information/purchase-requirement",
-      "id": "0a0385b73e0ae7d0b63cca0478d1cc58b8b18bb8"
+      "targetPath": "/information/privacy",
+      "id": "830aa7aaf5f9802c7cade506ea978151c4bd88a2"
     },
     {
-      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7CQUICK%20LINKS%7CFooter",
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7CQUICK%20LINKS%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/information/privacy",
+      "id": "4026d0c2ae5bfcce3bbcba95f97f4b3cca623f94"
+    },
+    {
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20%26%20condition%20%7C%7CFooter",
       "source": "CRAWL",
       "targetPath": "/information/terms-and-conditions",
-      "id": "0a2307fabf3d7c39ae4e380c540cd74a17a365e0"
+      "id": "66779f0ab137797c9b36d3dd1bea3974ecb8713e"
     },
     {
-      "url": "https://www.goindigo.in/international-flights.html",
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7COther%20information%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/international-flights",
-      "id": "447dcf30a5b8c96a4c8ac801d86e27609b874725"
+      "targetPath": "/information/terms-and-conditions",
+      "id": "bdfc7b3ab58f55a4b18a37cafd63fe2d19962ae8"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Dashboard%7CProfile%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/information/useful-tips-for-your-international-flight.html?linkNav=International%20Travel%20Tips%7CQUICK%20LINKS%7CFooter",
       "source": "CRAWL",
-      "targetPath": "/loyalty/dashboard",
-      "id": "e8729755291abe0c4ffebc77731758fe1664b744"
+      "targetPath": "/information/useful-tips-for-your-international-flight",
+      "id": "f104ee0eb1f84cf0fce5f0ebe3a048cd021b9eb6"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Loyalty%20Dashboard%7CDISCOVER%7CIndiGo%20BluChip",
+      "url": "https://www.goindigo.in/interest-on-credit-shell.html?linkNav=Interest%20on%20credit%20shell%7CFlights%7CHamburger",
       "source": "CRAWL",
-      "targetPath": "/loyalty/dashboard",
-      "id": "d50c2f6e04218798fe7e0a6e9f513dbcf24b795b"
+      "targetPath": "/interest-on-credit-shell",
+      "id": "7bfe5695a4ce8f9d2aeea8e1d75e9ccc6d59bf05"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html",
+      "url": "https://www.goindigo.in/international-destinations/amsterdam.html",
       "source": "CRAWL",
-      "targetPath": "/loyalty/dashboard/how-to-burn-points",
-      "id": "05c4c276f46e5d12ae1a443e53f9fc6a0d19137f"
+      "targetPath": "/international-destinations/amsterdam",
+      "id": "b16ccf4314bfd2e0d804a77d8f8e9cd68a446bfc"
+    },
+    {
+      "url": "https://www.goindigo.in/international-flights/flights-to-amsterdam.html",
+      "source": "CRAWL",
+      "targetPath": "/international-flights/flights-to-amsterdam",
+      "id": "89248b6e2204047f3076620b5ce9fb5999ec56c4"
+    },
+    {
+      "url": "https://www.goindigo.in/kiosk-check-in.html",
+      "source": "CRAWL",
+      "targetPath": "/kiosk-check-in",
+      "id": "6c4b4b521d2901a6767b2fab023fd6adaa73536f"
     },
     {
       "url": "https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html?linkNav=Redeem%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
@@ -508,22 +448,22 @@
       "id": "cf233ca45c8947e7a11552a21a455bef6bcbec18"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard/retro-claim.html?linkNav=Retro%20Claim%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html",
       "source": "CRAWL",
-      "targetPath": "/loyalty/dashboard/retro-claim",
-      "id": "70c147b0a70238b5f1a6809a40a0f1e433e9c989"
+      "targetPath": "/loyalty/dashboard/how-to-earn-points",
+      "id": "fb0f2b2cf94cd9a7dcc8ab8681ea5f97f599110c"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/ilp.html?linkNav=About%20IndiGo%20BluChip%7CDISCOVER%7CIndiGo%20BluChip",
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html?linkNav=Earn%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
       "source": "CRAWL",
-      "targetPath": "/loyalty/ilp",
-      "id": "4f956eb57e304fe00d4c67455e56f12a5972f444"
+      "targetPath": "/loyalty/dashboard/how-to-earn-points",
+      "id": "8cd320a7ea68bda22bd28a0f1b58ff0b9b624d3f"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/partners.html",
+      "url": "https://www.goindigo.in/loyalty/faq.html?linkNav=FAQ%7CDISCOVER%7CIndiGo%20BluChip",
       "source": "CRAWL",
-      "targetPath": "/loyalty/partners",
-      "id": "bba9dca043b2916323baedba04f8c18510a7d3e0"
+      "targetPath": "/loyalty/faq",
+      "id": "f966884414056ffaa00bf4f6875edf8951161839"
     },
     {
       "url": "https://www.goindigo.in/loyalty/partners.html?linkNav=%7CIndiGo%20BluChip%7CHeader%20Menu",
@@ -532,16 +472,22 @@
       "id": "bf7868655e891365f21638497aa044f9420587f4"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/tier-benefits.html",
-      "source": "CRAWL",
-      "targetPath": "/loyalty/tier-benefits",
-      "id": "236c272e81eba6756010924f6c06b2817316a7d5"
-    },
-    {
-      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7C%7CCard%20Comparision%20Details",
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Change%2C%20cancel%20or%20refund%7CPlan%20B%7CTrips",
       "source": "CRAWL",
       "targetPath": "/plan-b",
-      "id": "b454969469677f80e10ec0cd5c9aea2fec792d40"
+      "id": "2af3c19f79fc99363cfc2c9e31ee4f35a0b0988f"
+    },
+    {
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/plan-b",
+      "id": "ed75d05509cd37a4337179e9f303017357be0d62"
+    },
+    {
+      "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/plan-b",
+      "id": "76390e08ac9a55a60144d39f9b3ea175ebba0573"
     },
     {
       "url": "https://www.goindigo.in/plan-b.html?linkNav=Plan%20B%7CSUPPORT%7CFooter",
@@ -550,16 +496,46 @@
       "id": "9e237be254fb1317c221b9f9de8523ee7da8a6c1"
     },
     {
+      "url": "https://www.goindigo.in/print-baggage-tags.html",
+      "source": "CRAWL",
+      "targetPath": "/print-baggage-tags",
+      "id": "5a600f488b8da10aa998d4d2c8a352c9b8dfa98e"
+    },
+    {
+      "url": "https://www.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tag%7CManage%7CHeader%20Menu",
+      "source": "CRAWL",
+      "targetPath": "/print-baggage-tags",
+      "id": "4fa3843ae8e69755dff653fb81e27d6302a3d9c0"
+    },
+    {
       "url": "https://www.goindigo.in/refund.html",
       "source": "CRAWL",
       "targetPath": "/refund",
       "id": "1bc1798906cff9e0786173fda7bd77b85eeb53b3"
     },
     {
-      "url": "https://www.goindigo.in/scratch-card.html",
+      "url": "https://www.goindigo.in/sale.html",
       "source": "CRAWL",
-      "targetPath": "/scratch-card",
-      "id": "b2182a1f689db27f0adb47b8e337aa1d63396e88"
+      "targetPath": "/sale",
+      "id": "d0b794228e60517823f4e19a474c1b394ae94c30"
+    },
+    {
+      "url": "https://www.goindigo.in/sale.html?linkNav=rblsale_tile_under_book_section",
+      "source": "CRAWL",
+      "targetPath": "/sale",
+      "id": "149668274909c8105c0cde142cde9813d93a332b"
+    },
+    {
+      "url": "https://www.goindigo.in/sightseeing/manage-booking.html?linkNav=Sight%20Seeing%7CMy%20Orders%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/sightseeing/manage-booking",
+      "id": "a46e4726bd7f3b414fd43a6852e42ec32b2bb271"
+    },
+    {
+      "url": "https://www.goindigo.in/sitemap.html?linkNav=Site%20map%7C%7CFooter",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "f493214af25a17a7b7c21c1adf64784f5ac05c92"
     },
     {
       "url": "https://www.goindigo.in/sitemap.html?linkNav=Sitemap%7CQUICK%20LINKS%7CFooter",
@@ -568,10 +544,10 @@
       "id": "4466f3e981be7a9fef8443edac0257962efc8601"
     },
     {
-      "url": "https://www.goindigo.in/support.html?linkNav=6Eskai%7CSUPPORT%7CFooter",
+      "url": "https://www.goindigo.in/submit-passenger-details-arriving-india.html?linkNav=Submit%20International%20Passenger%20Details%7C%7CPlan%20your%20travel",
       "source": "CRAWL",
-      "targetPath": "/support",
-      "id": "cb766c0c73115a86fe01b4470b9a0dbd3fd7ce69"
+      "targetPath": "/submit-passenger-details-arriving-india",
+      "id": "35f76394e9f9c4622d1effba4df98414399bfa2a"
     },
     {
       "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQ%27s%7CSUPPORT%7CFooter",
@@ -580,10 +556,28 @@
       "id": "2fba2f704d3558215e53fada05b3006500a29c19"
     },
     {
-      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=Help%20and%20FAQs%7COther%20information%7CHamburger",
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQs%7CInfo%7CHeader%20Menu",
       "source": "CRAWL",
       "targetPath": "/travel-information/en",
-      "id": "4e283cc584a78f8853cf827105f66a450673ae42"
+      "id": "c6feb63a24a75adf3e73e774919e2f3b2551fcce"
+    },
+    {
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQs%7CINFORMATION%20ON%20THE%20GO%7CHamburger",
+      "source": "CRAWL",
+      "targetPath": "/travel-information/en",
+      "id": "e92475938ff63b000a61a443b08644639d32e7f0"
+    },
+    {
+      "url": "https://www.goindigo.in/upgrade-bookings.html?linkNav=Upgrade%20booking%7CMy%20trips%7CTrips",
+      "source": "CRAWL",
+      "targetPath": "/upgrade-bookings",
+      "id": "80781d9da6abb0928d9f40b9d0cc4d277810c5c7"
+    },
+    {
+      "url": "https://www.goindigo.in/view-gst-invoice.html?linkNav=View%20GST%20Invoice%7C%7CPlan%20your%20travel",
+      "source": "CRAWL",
+      "targetPath": "/view-gst-invoice",
+      "id": "c677145fabbd2490fbe4435c47f6e3501c4180a1"
     },
     {
       "url": "https://www.goindigo.in/web-check-in.html",
@@ -620,20 +614,24 @@
   },
   "extractionErrors": [
     {
-      "url": "https://www.goindigo.in/content/skyplus6e/in/en/indigo-stretch",
-      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/content/skyplus6e/in/en/indigo-stretch.html"
-    },
-    {
-      "url": "https://www.goindigo.in/content/skyplus6e/in/en/upgrade-bookings",
-      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/content/skyplus6e/in/en/upgrade-bookings.html"
+      "url": "https://www.goindigo.in/partner-login.html?linkNav=Partner%20Login%7CFlights%7CHamburger",
+      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/agent.html?linkNav=Partner%20Login%7CFlights%7CHamburger"
     },
     {
       "url": "https://www.goindigo.in/flight-booking.html",
       "status": "301 Moved Permanently Redirect: http://www.goindigo.in/flights"
     },
     {
-      "url": "https://www.goindigo.in/destinations/indian-destinations/amritsar.html",
-      "status": "404 Not Found"
+      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Book%7C%7CHeader%20Menu",
+      "status": "301 Moved Permanently Redirect: http://www.goindigo.in/flights?linkNav=Book%7C%7CHeader%20Menu"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/term-conditions.html",
+      "status": "302 Moved Temporarily Redirect: https://www.goindigo.in/loyalty/terms-and-conditions.html"
+    },
+    {
+      "url": "https://www.goindigo.in/destinations/international-destinations/amsterdam.html",
+      "status": "fetch failed"
     },
     {
       "url": "https://www.goindigo.in/?linkNav=Logo%7C%7CHeader",
@@ -652,19 +650,7 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/sale.html?linkNav=rblsale_tile_under_book_section",
-      "status": "fetch failed"
-    },
-    {
       "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7CFlightsHPBookheader%7CBookHotelBanner",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/account/my-bookings.html?linkNav=Find%20%26%20view%20booking%7CMy%20trips%7CTrips",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/upgrade-bookings.html?linkNav=Upgrade%20booking%7CMy%20trips%7CTrips",
       "status": "fetch failed"
     },
     {
@@ -672,11 +658,15 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/fees-and-charges.html?linkNav=Fees%20%26%20Charges%7CCustomise%20your%20journey%7CTrips",
+      "url": "https://www.goindigo.in/cancellation.html?linkNav=Cancel%20flight%7CChange%20your%20journey%7CTrips",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/plan-b.html?linkNav=Change%2C%20cancel%20or%20refund%7CPlan%20B%7CTrips",
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=6E%20Add-ons%2C%20Services%20and%20Fares%7CCustomise%20your%20journey%7CTrips",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7COther%7CTrips",
       "status": "fetch failed"
     },
     {
@@ -688,6 +678,14 @@
       "status": "fetch failed"
     },
     {
+      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Loyalty%20Dashboard%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/ilp.html?linkNav=About%20IndiGo%20BluChip%7CDISCOVER%7CIndiGo%20BluChip",
+      "status": "fetch failed"
+    },
+    {
       "url": "https://www.goindigo.in/loyalty/tier-benefits.html?linkNav=Tiers%20%26%20Benefits%7CDISCOVER%7CIndiGo%20BluChip",
       "status": "fetch failed"
     },
@@ -696,19 +694,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/faq.html?linkNav=FAQ%7CDISCOVER%7CIndiGo%20BluChip",
+      "url": "https://www.goindigo.in/loyalty/dashboard/retro-claim.html?linkNav=Retro%20Claim%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html?linkNav=Earn%20IndiGo%20BluChips%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Update%20IndiGo%20BluChip%20Number%7CEarn%20and%20Redeem%7CIndiGo%20BluChip",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status.html",
+      "url": "https://www.goindigo.in/scratch-card.html",
       "status": "fetch failed"
     },
     {
@@ -720,19 +710,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20us%7COther%20information%7CHamburger",
-      "status": "fetch failed"
-    },
-    {
       "url": "https://www.goindigo.in/whatsapp-support.html?linkNav=WhatsApp%7COther%20information%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7COther%20information%7CHamburger",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/sightseeing/manage-booking.html?linkNav=Sight%20Seeing%7CMy%20Orders%7CHamburger",
+      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=Help%20and%20FAQs%7COther%20information%7CHamburger",
       "status": "fetch failed"
     },
     {
@@ -748,7 +730,7 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/term-conditions.html",
+      "url": "https://www.goindigo.in/loyalty/tier-benefits.html",
       "status": "fetch failed"
     },
     {
@@ -756,11 +738,15 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-earn-points.html",
+      "url": "https://www.goindigo.in/loyalty/partners.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/account/my-profile.html?linkNav=My%20Profile%7CProfile%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/loyalty/dashboard.html?linkNav=Dashboard%7CProfile%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
@@ -772,15 +758,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/corp-admin.html?linkNav=SME%7CHello%20there%2C%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/agent.html?linkNav=Travel%20partner%E2%80%8B%7CHello%20there%2C%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
       "url": "https://www.goindigo.in/account/my-bookings.html?linkNav=My%20trips%7C%7CHeader%20Menu",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Book%7C%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
@@ -792,19 +774,15 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/airport-directory/india/amritsar-atq.html",
+      "url": "https://www.goindigo.in/information/visa-information/schengen-eu-visa.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/domestic-flights/flights-to-amritsar.html",
+      "url": "https://www.goindigo.in/information/visa-information/netherlands-nl-visa.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/get-inspired/reasons-to-plan-your-next-trip-to-amritsar.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/get-inspired/list-of-famous-dishes-in-punjab.html",
+      "url": "https://www.goindigo.in/get-inspired/why-visit-athens.html",
       "status": "fetch failed"
     },
     {
@@ -820,11 +798,7 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/about-us/leadership-team.html?linkNav=Leadership%20Team%7CCOMPANY%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/investor-relations.html?linkNav=Investor%20Relations%7CCOMPANY%7CFooter",
+      "url": "https://www.goindigo.in/about-us/board-of-directors.html?linkNav=Board%20of%20Directors%7CCOMPANY%7CFooter",
       "status": "fetch failed"
     },
     {
@@ -840,10 +814,6 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/hiv-aids-workplace-policy.html?linkNav=HIV%2FAIDS%20workplace%20policy%7CCOMPANY%7CFooter",
-      "status": "fetch failed"
-    },
-    {
       "url": "https://www.goindigo.in/aircraft-and-fleet.html?linkNav=Seat%2FAircraft%20information%7CCOMPANY%7CFooter",
       "status": "fetch failed"
     },
@@ -856,6 +826,10 @@
       "status": "fetch failed"
     },
     {
+      "url": "https://www.goindigo.in/add-on-services/food-menu.html?linkNav=6E%20Eats%7CSUPPORT%7CFooter",
+      "status": "fetch failed"
+    },
+    {
       "url": "https://www.goindigo.in/add-on-services.html?linkNav=Add-ons%20%26%20Services%7CSUPPORT%7CFooter",
       "status": "fetch failed"
     },
@@ -864,15 +838,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/charters.html?linkNav=Charter%20Services%7CSUPPORT%7CFooter",
-      "status": "fetch failed"
-    },
-    {
       "url": "https://www.goindigo.in/hotels?linkNav=BookHotels%7C%7Cfooter",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7CSUPPORT%7CFooter",
+      "url": "https://www.goindigo.in/support.html?linkNav=6Eskai%7CSUPPORT%7CFooter",
       "status": "fetch failed"
     },
     {
@@ -884,7 +854,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20carriage%7CQUICK%20LINKS%7CFooter",
+      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20and%20Conditions%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/",
       "status": "fetch failed"
     },
     {
@@ -892,11 +866,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/travel-information/en.html?linkNav=FAQs%7CInfo%7CHeader%20Menu",
+      "url": "https://www.goindigo.in/hotels/resource?tab=contact_us",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/hotels/resource?tab=contact_us",
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html",
       "status": "fetch failed"
     },
     {
@@ -904,11 +878,99 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/app-check-in.html",
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20carriage%7CQUICK%20LINKS%7CFooter",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/kiosk-check-in.html",
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20check-in%20advisory%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/purchase-requirement.html?linkNav=Purchase%20requirement%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20status%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/domestic-flights.html?linkNav=Domestic%20Flights%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/international-flights.html?linkNav=International%20Flights%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/passenger-charter.html?linkNav=passenger-charter_information%7Esitemap&linkNav=Passenger%20Charter%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/press-releases.html?linkNav=Press%20releases%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Our%20awards%20%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/customer-testimonial.html?linkNav=Testimonials%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/campaigns/hello-6e.html?linkNav=Hello%206E%20Magazine%7CMEDIA%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Best%20Low%20Cost%20Airline-Central%20Asia%7C3%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Cookie%20Policy%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Cyber%20security%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7C%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/add-on-services.html?linkNav=%3Cp%3E6E%20Add-ons%20and%20Services%3C%2Fp%3E%0D%0A%7C%7CCards",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/content/skyplus6e/in/en/plan-b",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/boarding-pass.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/careers.html?linkNav=Careers%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/mice-query-form.html?linkNav=MICE%20Queries%7CQUICK%20LINKS%7CFooter",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/upgrade-bookings.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/contact-us/feedback.html",
       "status": "fetch failed"
     },
     {
@@ -916,7 +978,11 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/print-baggage-tags.html",
+      "url": "https://www.goindigo.in/flights",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/app-check-in.html",
       "status": "fetch failed"
     },
     {
@@ -932,75 +998,15 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/credit-shell.html",
+      "url": "https://www.goindigo.in/add-on-services.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/change-flight.html",
+      "url": "https://www.goindigo.in/booking-information.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/fees-and-charges.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/useful-tips-for-your-international-flight.html?linkNav=International%20Travel%20Tips%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20check-in%20advisory%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/mobile.html?linkNav=Download%20app%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/codeshare-partners.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/domestic-flights.html?linkNav=Domestic%20Flights%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/international-flights.html?linkNav=International%20Flights%7CQUICK%20LINKS%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/press-releases.html?linkNav=Press%20releases%7CMEDIA%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/about-us/awards.html?linkNav=Our%20awards%20%7CMEDIA%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/sitemap.html?linkNav=Site%20map%7C%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Privacy%20Policy%7C%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/terms-and-conditions.html?linkNav=Terms%20%26%20condition%20%7C%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/privacy.html?linkNav=Cookie%20Policy%7C%7CFooter",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/information/disclaimer.html?linkNav=Disclaimer%7C%7CFooter",
+      "url": "https://www.goindigo.in/content/skyplus6e/in/en/upgrade-bookings",
       "status": "fetch failed"
     },
     {
@@ -1008,23 +1014,27 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/6e-fare-hold.html",
+      "url": "https://www.goindigo.in/information/fees-and-charges.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/6e-prime.html",
+      "url": "https://www.goindigo.in/information.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/seat-plus.html",
+      "url": "https://www.goindigo.in/",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/fast-forward.html",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/travel-assistance.html",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "status": "fetch failed"
     },
     {
@@ -1032,191 +1042,123 @@
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/6e-sme.html",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/add-on-services/student-discount.html",
+      "url": "https://www.goindigo.in/aircraft-and-fleet.html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-refund-status.html",
+      "url": "https://www.goindigo.in/plan-b..html",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/flight-status.html",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7CManage%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/flight-schedule.html",
+      "url": "https://www.goindigo.in/change-flight.html?linkNav=Change%20Flight%7CManage%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/domestic-flights.html",
+      "url": "https://www.goindigo.in/destinations.html?linkNav=Destination%7CInfo%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/codeshare.html",
+      "url": "https://www.goindigo.in/information/conditions-of-carriage.html?linkNav=Conditions%20of%20Carriage%7CInfo%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/international-travel-guidelines.html",
+      "url": "https://www.goindigo.in/baggage.html?linkNav=Baggage%7CInfo%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/information/state-regulations.html",
+      "url": "https://www.goindigo.in/information/corona-virus-travel-restrictions.html?linkNav=COVID-19%20queries%7CInfo%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-pune.html",
+      "url": "https://www.goindigo.in/contact-us.html?linkNav=Contact%20Us%7CInfo%7CHeader%20Menu",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-mumbai.html",
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20Check-in%7CFlights%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-hyderabad.html",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=View%2FEdit%20Booking%28s%29%7CFlights%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-kolkata.html",
+      "url": "https://www.goindigo.in/update-contact-details.html?linkNav=Update%20Contact%20Details%7CFlights%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-chennai.html",
+      "url": "https://www.goindigo.in/view-gst-invoice.html?linkNav=View%20GST%20Invoice%7CFlights%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/hyderabad-to-delhi.html",
+      "url": "https://www.goindigo.in/campaigns/indigo-offers.html?linkNav=Offers%7CServices%20%26%20Offers%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/surat-to-delhi.html",
+      "url": "https://www.goindigo.in/destinations.html?linkNav=Our%20Destinations%7CServices%20%26%20Offers%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-surat.html",
+      "url": "https://www.goindigo.in/information/special-disability-assistance/special-assistance.html?linkNav=Special%20Assistance%7CINFORMATION%20ON%20THE%20GO%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-goa.html",
+      "url": "https://www.goindigo.in/information/mobile.html?linkNav=Download%20App%7COthers%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/ahmedabad-to-delhi.html",
+      "url": "https://www.goindigo.in/member/member-profile.html?linkNav=My%20Account%20&%20Settings%7COthers%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/patna-to-delhi.html",
+      "url": "https://www.goindigo.in/contact-us/query-form-alliances.html?linkNav=Advertise%20with%20us%7COthers%7CHamburger",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-bagdogra.html",
+      "url": "https://www.goindigo.in/flight-booking.html?linkNav=Flight%20Booking%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/mumbai-to-goa.html",
+      "url": "https://www.goindigo.in/web-check-in.html?linkNav=Web%20check-in%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/delhi-to-patna.html",
+      "url": "https://www.goindigo.in/auto-check-in.html?linkNav=Auto%20Check-in%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-mumbai.html",
+      "url": "https://www.goindigo.in/kiosk-check-in.html?linkNav=Kiosk%20Check-in%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-bengaluru.html",
+      "url": "https://www.goindigo.in/edit-booking.html?linkNav=Edit%20Booking%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/dubai-to-delhi.html",
+      "url": "https://www.goindigo.in/print-baggage-tags.html?linkNav=Baggage%20Tags%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-hyderabad.html",
+      "url": "https://www.goindigo.in/update-contact-details.html?linkNav=Update%20Contact%20Details%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-kolkata.html",
+      "url": "https://www.goindigo.in/refund.html?linkNav=Refund%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-mumbai.html",
+      "url": "https://www.goindigo.in/check-flight-status.html?linkNav=Flight%20Tracker%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-sharjah.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-ahmedabad.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-doha.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/mumbai-to-dubai.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/dubai-to-mumbai.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/hyderabad-to-riyadh.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-singapore.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-chennai.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-bengaluru.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/singapore-to-delhi.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/doha-to-delhi.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/hyderabad-to-jeddah.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/sharjah-to-bengaluru.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/chennai-to-dubai.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/check-flight-status/madurai-to-colombo.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/domestic-flights/imphal-to-guwahati-flights.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/domestic-flights/guwahati-to-delhi-flights.html",
-      "status": "fetch failed"
-    },
-    {
-      "url": "https://www.goindigo.in/domestic-flights/guwahati-to-kolkata-flights.html",
+      "url": "https://www.goindigo.in/booking-information.html?linkNav=Booking%20Information%7C%7CPlan%20your%20travel",
       "status": "fetch failed"
     }
   ]
